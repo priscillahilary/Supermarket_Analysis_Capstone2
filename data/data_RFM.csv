@@ -1,0 +1,2029 @@
+,Customer ID,R Rank,F Rank,M Rank,R,F,M,RFM_SCORE,Segment
+0,5524,42.0,23.0,902.0,3,4,4,11,Loyal Customer
+1,2174,62.0,5.0,22.0,2,1,1,4,New Customer
+2,4141,74.0,21.0,500.0,2,4,3,9,Loyal Customer
+3,6182,74.0,7.0,48.0,2,1,1,4,New Customer
+4,5324,6.0,15.0,319.0,4,3,3,10,Loyal Customer
+5,7446,84.0,21.0,469.0,1,4,3,8,Loyal Customer
+6,965,66.0,18.0,409.0,2,3,3,8,Loyal Customer
+7,6177,68.0,9.0,150.0,2,2,2,6,Potential Loyalists Customer
+8,4855,81.0,6.0,41.0,1,1,1,3,Potential Lost Customer
+9,5899,32.0,2.0,44.0,3,1,1,5,New Customer
+11,387,41.0,6.0,56.0,3,1,1,5,New Customer
+12,2125,18.0,16.0,677.0,4,3,4,11,Loyal Customer
+13,8180,47.0,13.0,249.0,3,2,2,7,Potential Loyalists Customer
+14,2569,62.0,5.0,41.0,2,1,1,4,New Customer
+15,2114,77.0,26.0,785.0,1,4,4,9,Loyal Customer
+16,9736,49.0,7.0,91.0,3,1,2,6,Potential Loyalists Customer
+17,4939,80.0,12.0,255.0,1,2,2,5,New Customer
+18,6565,9.0,25.0,956.0,4,4,4,12,Loyal Customer
+19,2278,14.0,7.0,121.0,4,1,2,7,Potential Loyalists Customer
+20,9360,59.0,12.0,254.0,2,2,2,6,Potential Loyalists Customer
+21,5376,58.0,29.0,941.0,2,4,4,10,Loyal Customer
+22,1993,37.0,15.0,603.0,3,3,3,9,Loyal Customer
+23,4047,100.0,18.0,387.0,1,3,3,7,Potential Loyalists Customer
+24,1409,31.0,14.0,334.0,3,3,3,9,Loyal Customer
+25,7892,11.0,7.0,70.0,4,1,2,7,Potential Loyalists Customer
+26,2404,96.0,11.0,210.0,1,2,2,5,New Customer
+28,9422,74.0,8.0,119.0,2,2,2,6,Potential Loyalists Customer
+29,1966,4.0,26.0,919.0,4,4,4,12,Loyal Customer
+30,6864,66.0,7.0,25.0,2,1,1,4,New Customer
+31,3033,44.0,11.0,256.0,3,2,2,7,Potential Loyalists Customer
+32,5710,69.0,8.0,109.0,2,2,2,6,Potential Loyalists Customer
+33,7373,92.0,12.0,244.0,1,2,2,5,New Customer
+34,8755,96.0,18.0,735.0,1,3,4,8,Loyal Customer
+35,10738,45.0,6.0,60.0,3,1,1,5,New Customer
+36,4339,63.0,24.0,571.0,2,4,3,9,Loyal Customer
+37,10755,24.0,7.0,76.0,4,1,2,7,Potential Loyalists Customer
+38,8595,1.0,6.0,62.0,4,1,1,6,Potential Loyalists Customer
+39,2968,47.0,23.0,563.0,3,4,3,10,Loyal Customer
+40,8601,97.0,20.0,820.0,1,4,4,9,Loyal Customer
+41,503,12.0,6.0,48.0,4,1,1,6,Potential Loyalists Customer
+42,8430,96.0,4.0,17.0,1,1,1,3,Potential Lost Customer
+44,2139,81.0,6.0,26.0,1,1,1,3,Potential Lost Customer
+45,1371,28.0,16.0,610.0,3,3,3,9,Loyal Customer
+47,7286,8.0,5.0,50.0,4,1,1,6,Potential Loyalists Customer
+49,6566,61.0,20.0,787.0,2,4,4,10,Loyal Customer
+50,8614,71.0,17.0,371.0,2,3,3,8,Loyal Customer
+51,4114,98.0,29.0,931.0,1,4,4,9,Loyal Customer
+52,1331,46.0,6.0,67.0,3,1,2,6,Potential Loyalists Customer
+53,2225,46.0,21.0,902.0,3,4,4,11,Loyal Customer
+54,9381,43.0,17.0,418.0,3,3,3,9,Loyal Customer
+55,6260,45.0,27.0,999.0,3,4,4,11,Loyal Customer
+56,10383,70.0,21.0,672.0,2,4,4,10,Loyal Customer
+57,7437,69.0,6.0,24.0,2,1,1,4,New Customer
+59,8375,37.0,17.0,373.0,3,3,3,9,Loyal Customer
+60,6853,88.0,21.0,833.0,1,4,4,9,Loyal Customer
+61,3076,82.0,19.0,422.0,1,3,3,7,Potential Loyalists Customer
+62,1012,74.0,21.0,553.0,2,4,3,9,Loyal Customer
+63,6518,92.0,19.0,418.0,1,3,3,7,Potential Loyalists Customer
+64,4137,71.0,16.0,660.0,2,3,4,9,Loyal Customer
+65,8082,25.0,5.0,29.0,4,1,1,6,Potential Loyalists Customer
+66,1386,100.0,4.0,6.0,1,1,1,3,Potential Lost Customer
+67,9369,81.0,32.0,768.0,1,4,4,9,Loyal Customer
+68,4477,96.0,18.0,438.0,1,3,3,7,Potential Loyalists Customer
+69,1357,10.0,13.0,879.0,4,2,4,10,Loyal Customer
+70,1402,99.0,19.0,760.0,1,3,4,8,Loyal Customer
+72,6312,71.0,27.0,544.0,2,4,3,9,Loyal Customer
+73,8132,12.0,20.0,443.0,4,4,3,11,Loyal Customer
+74,1050,42.0,8.0,60.0,3,2,1,6,Potential Loyalists Customer
+75,5846,32.0,4.0,8.0,3,1,1,5,New Customer
+76,1859,66.0,19.0,980.0,2,3,4,9,Loyal Customer
+77,7503,60.0,23.0,1032.0,2,4,4,10,Loyal Customer
+78,10401,88.0,4.0,13.0,1,1,1,3,Potential Lost Customer
+79,1618,91.0,20.0,459.0,1,4,3,8,Loyal Customer
+80,3332,13.0,9.0,148.0,4,2,2,8,Loyal Customer
+81,2261,95.0,4.0,11.0,1,1,1,3,Potential Lost Customer
+82,5346,13.0,7.0,74.0,4,1,2,7,Potential Loyalists Customer
+84,535,82.0,27.0,502.0,1,4,3,8,Loyal Customer
+85,5268,5.0,6.0,51.0,4,1,1,6,Potential Loyalists Customer
+86,273,52.0,9.0,136.0,2,2,2,6,Potential Loyalists Customer
+87,4452,97.0,14.0,288.0,1,3,2,6,Potential Loyalists Customer
+88,8504,30.0,19.0,802.0,3,3,4,10,Loyal Customer
+89,771,21.0,10.0,172.0,4,2,2,8,Loyal Customer
+93,11178,31.0,5.0,27.0,3,1,1,5,New Customer
+94,2230,16.0,8.0,38.0,4,2,1,7,Potential Loyalists Customer
+95,7516,70.0,6.0,40.0,2,1,1,4,New Customer
+96,7247,28.0,18.0,418.0,3,3,3,9,Loyal Customer
+97,11100,63.0,6.0,58.0,2,1,1,4,New Customer
+98,4646,56.0,25.0,607.0,2,4,3,9,Loyal Customer
+99,3037,68.0,15.0,310.0,2,3,3,8,Loyal Customer
+100,1473,100.0,6.0,67.0,1,1,2,4,New Customer
+101,1016,57.0,6.0,50.0,2,1,1,4,New Customer
+102,4518,41.0,26.0,717.0,3,4,4,11,Loyal Customer
+103,9370,32.0,16.0,687.0,3,3,4,10,Loyal Customer
+104,8908,65.0,20.0,674.0,2,4,4,10,Loyal Customer
+105,8373,6.0,5.0,24.0,4,1,1,6,Potential Loyalists Customer
+106,7533,85.0,10.0,166.0,1,2,2,5,New Customer
+107,2683,44.0,23.0,570.0,3,4,3,10,Loyal Customer
+108,3629,83.0,8.0,131.0,1,2,2,5,New Customer
+109,10991,82.0,14.0,538.0,1,3,3,7,Potential Loyalists Customer
+110,5077,54.0,24.0,601.0,2,4,3,9,Loyal Customer
+111,7431,60.0,17.0,967.0,2,3,4,9,Loyal Customer
+112,3267,73.0,18.0,419.0,2,3,3,8,Loyal Customer
+113,999,5.0,25.0,476.0,4,4,3,11,Loyal Customer
+114,9215,81.0,17.0,390.0,1,3,3,7,Potential Loyalists Customer
+115,2286,73.0,7.0,104.0,2,1,2,5,New Customer
+116,1592,75.0,16.0,939.0,2,3,4,9,Loyal Customer
+117,367,26.0,16.0,404.0,4,3,3,10,Loyal Customer
+118,5234,15.0,6.0,76.0,4,1,2,7,Potential Loyalists Customer
+119,9862,63.0,6.0,28.0,2,1,1,4,New Customer
+120,9805,35.0,19.0,442.0,3,3,3,9,Loyal Customer
+121,6205,87.0,7.0,75.0,1,1,2,4,New Customer
+122,8442,37.0,5.0,25.0,3,1,1,5,New Customer
+123,7386,17.0,5.0,38.0,4,1,1,6,Potential Loyalists Customer
+124,7215,31.0,28.0,696.0,3,4,4,11,Loyal Customer
+125,1491,13.0,15.0,393.0,4,3,3,10,Loyal Customer
+126,11071,63.0,16.0,991.0,2,3,4,9,Loyal Customer
+127,3381,49.0,7.0,85.0,3,1,2,6,Potential Loyalists Customer
+129,11051,28.0,20.0,443.0,3,4,3,10,Loyal Customer
+130,8026,90.0,15.0,346.0,1,3,3,7,Potential Loyalists Customer
+131,433,58.0,19.0,428.0,2,3,3,8,Loyal Customer
+132,9597,90.0,19.0,471.0,1,3,3,7,Potential Loyalists Customer
+134,5290,49.0,12.0,229.0,3,2,2,7,Potential Loyalists Customer
+135,1685,79.0,23.0,851.0,1,4,4,9,Loyal Customer
+136,5342,69.0,5.0,24.0,2,1,1,4,New Customer
+137,9579,39.0,7.0,99.0,3,1,2,6,Potential Loyalists Customer
+138,7660,63.0,5.0,44.0,2,1,1,4,New Customer
+139,1461,26.0,6.0,33.0,4,1,1,6,Potential Loyalists Customer
+140,821,54.0,22.0,1017.0,2,4,4,10,Loyal Customer
+141,11084,96.0,16.0,649.0,1,3,4,8,Loyal Customer
+142,8690,27.0,23.0,816.0,3,4,4,11,Loyal Customer
+143,2937,53.0,23.0,547.0,2,4,3,9,Loyal Customer
+144,9701,87.0,10.0,251.0,1,2,2,5,New Customer
+145,9949,64.0,13.0,550.0,2,2,3,7,Potential Loyalists Customer
+146,10837,53.0,6.0,63.0,2,1,1,4,New Customer
+147,3120,51.0,4.0,17.0,3,1,1,5,New Customer
+148,5885,6.0,10.0,181.0,4,2,2,8,Loyal Customer
+149,4050,35.0,8.0,115.0,3,2,2,7,Potential Loyalists Customer
+150,3830,41.0,16.0,343.0,3,3,3,9,Loyal Customer
+151,7987,4.0,16.0,344.0,4,3,3,10,Loyal Customer
+152,7798,72.0,14.0,324.0,2,3,3,8,Loyal Customer
+153,92,88.0,8.0,84.0,1,2,2,5,New Customer
+154,7055,43.0,25.0,630.0,3,4,3,10,Loyal Customer
+155,10240,90.0,21.0,813.0,1,4,4,9,Loyal Customer
+156,3025,96.0,13.0,247.0,1,2,2,5,New Customer
+157,9283,51.0,4.0,13.0,3,1,1,5,New Customer
+158,9970,97.0,9.0,146.0,1,2,2,5,New Customer
+159,2730,36.0,18.0,750.0,3,3,4,10,Loyal Customer
+160,2795,100.0,4.0,8.0,1,1,1,3,Potential Lost Customer
+161,9260,80.0,26.0,935.0,1,4,4,9,Loyal Customer
+162,8182,9.0,8.0,110.0,4,2,2,8,Loyal Customer
+163,10095,91.0,20.0,778.0,1,4,4,9,Loyal Customer
+164,8475,2.0,23.0,898.0,4,4,4,12,Loyal Customer
+165,4370,17.0,7.0,83.0,4,1,2,7,Potential Loyalists Customer
+166,10573,73.0,18.0,318.0,2,3,3,8,Loyal Customer
+167,3712,37.0,12.0,212.0,3,2,2,7,Potential Loyalists Customer
+168,6637,54.0,15.0,686.0,2,3,4,9,Loyal Customer
+169,3152,16.0,7.0,84.0,4,1,2,7,Potential Loyalists Customer
+170,5610,42.0,5.0,31.0,3,1,1,5,New Customer
+171,6460,22.0,6.0,52.0,4,1,1,6,Potential Loyalists Customer
+172,1349,96.0,8.0,134.0,1,2,2,5,New Customer
+173,1880,83.0,7.0,88.0,1,1,2,4,New Customer
+174,641,23.0,7.0,108.0,4,1,2,7,Potential Loyalists Customer
+175,8717,44.0,28.0,974.0,3,4,4,11,Loyal Customer
+176,10314,21.0,25.0,786.0,4,4,4,12,Loyal Customer
+177,10854,10.0,6.0,40.0,4,1,1,6,Potential Loyalists Customer
+178,10492,4.0,4.0,5.0,4,1,1,6,Potential Loyalists Customer
+180,7698,19.0,10.0,169.0,4,2,2,8,Loyal Customer
+181,3559,23.0,7.0,52.0,4,1,1,6,Potential Loyalists Customer
+182,10562,79.0,24.0,636.0,1,4,3,8,Loyal Customer
+183,10796,84.0,6.0,61.0,1,1,1,3,Potential Lost Customer
+184,2563,20.0,6.0,38.0,4,1,1,6,Potential Loyalists Customer
+185,3518,55.0,5.0,45.0,2,1,1,4,New Customer
+186,5823,37.0,6.0,34.0,3,1,1,5,New Customer
+187,3934,66.0,17.0,419.0,2,3,3,8,Loyal Customer
+188,6982,86.0,24.0,889.0,1,4,4,9,Loyal Customer
+189,6431,87.0,6.0,63.0,1,1,1,3,Potential Lost Customer
+190,9733,48.0,5.0,75.0,3,1,2,6,Potential Loyalists Customer
+191,5602,2.0,28.0,772.0,4,4,4,12,Loyal Customer
+193,1324,7.0,7.0,86.0,4,1,2,7,Potential Loyalists Customer
+194,326,62.0,13.0,253.0,2,2,2,6,Potential Loyalists Customer
+195,7224,76.0,5.0,26.0,2,1,1,4,New Customer
+196,6999,20.0,23.0,529.0,4,4,3,11,Loyal Customer
+197,9938,18.0,17.0,896.0,4,3,4,11,Loyal Customer
+198,6422,80.0,17.0,766.0,1,3,4,8,Loyal Customer
+199,3182,19.0,10.0,214.0,4,2,2,8,Loyal Customer
+200,7300,50.0,17.0,384.0,3,3,3,9,Loyal Customer
+201,10424,40.0,18.0,779.0,3,3,4,10,Loyal Customer
+202,8727,37.0,27.0,705.0,3,4,4,11,Loyal Customer
+203,2798,46.0,27.0,754.0,3,4,4,11,Loyal Customer
+204,1030,28.0,5.0,33.0,3,1,1,5,New Customer
+205,624,95.0,4.0,30.0,1,1,1,3,Potential Lost Customer
+206,5176,12.0,5.0,48.0,4,1,1,6,Potential Loyalists Customer
+207,5552,50.0,12.0,237.0,3,2,2,7,Potential Loyalists Customer
+208,868,1.0,6.0,60.0,4,1,1,6,Potential Loyalists Customer
+209,380,83.0,25.0,962.0,1,4,4,9,Loyal Customer
+210,2677,89.0,11.0,201.0,1,2,2,5,New Customer
+211,6521,82.0,20.0,676.0,1,4,4,9,Loyal Customer
+212,6927,30.0,12.0,215.0,3,2,2,7,Potential Loyalists Customer
+213,2877,79.0,17.0,385.0,1,3,3,7,Potential Loyalists Customer
+214,0,34.0,17.0,736.0,3,3,4,10,Loyal Customer
+215,1584,21.0,15.0,353.0,4,3,3,10,Loyal Customer
+216,7264,98.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+217,6274,19.0,25.0,900.0,4,4,4,12,Loyal Customer
+218,1377,76.0,11.0,233.0,2,2,2,6,Potential Loyalists Customer
+219,454,52.0,27.0,696.0,2,4,4,10,Loyal Customer
+220,1755,7.0,7.0,104.0,4,1,2,7,Potential Loyalists Customer
+221,2075,44.0,16.0,645.0,3,3,3,9,Loyal Customer
+222,4785,97.0,21.0,467.0,1,4,3,8,Loyal Customer
+223,9076,56.0,10.0,164.0,2,2,2,6,Potential Loyalists Customer
+224,7079,62.0,28.0,758.0,2,4,4,10,Loyal Customer
+225,4653,54.0,9.0,168.0,2,2,2,6,Potential Loyalists Customer
+226,7375,16.0,15.0,403.0,4,3,3,10,Loyal Customer
+227,709,73.0,16.0,678.0,2,3,4,9,Loyal Customer
+228,460,28.0,17.0,948.0,3,3,4,10,Loyal Customer
+229,3726,34.0,4.0,12.0,3,1,1,5,New Customer
+230,6798,70.0,15.0,326.0,2,3,3,8,Loyal Customer
+231,5341,98.0,14.0,892.0,1,3,4,8,Loyal Customer
+232,1606,35.0,4.0,17.0,3,1,1,5,New Customer
+233,9617,63.0,5.0,14.0,2,1,1,4,New Customer
+234,3233,11.0,27.0,686.0,4,4,4,12,Loyal Customer
+235,89,51.0,7.0,64.0,3,1,1,5,New Customer
+236,2936,54.0,5.0,18.0,2,1,1,4,New Customer
+237,9449,68.0,19.0,417.0,2,3,3,8,Loyal Customer
+238,7297,46.0,8.0,52.0,3,2,1,6,Potential Loyalists Customer
+240,313,2.0,22.0,1020.0,4,4,4,12,Loyal Customer
+241,9940,3.0,15.0,624.0,4,3,3,10,Loyal Customer
+242,10735,25.0,5.0,21.0,4,1,1,6,Potential Loyalists Customer
+243,9529,92.0,22.0,905.0,1,4,4,9,Loyal Customer
+244,6439,63.0,25.0,677.0,2,4,4,10,Loyal Customer
+245,7411,69.0,5.0,12.0,2,1,1,4,New Customer
+246,2176,60.0,15.0,929.0,2,3,4,9,Loyal Customer
+247,9265,26.0,20.0,818.0,4,4,4,12,Loyal Customer
+248,8867,10.0,20.0,1027.0,4,4,4,12,Loyal Customer
+249,8932,43.0,22.0,872.0,3,4,4,11,Loyal Customer
+250,10236,41.0,6.0,59.0,3,1,1,5,New Customer
+251,6340,48.0,5.0,21.0,3,1,1,5,New Customer
+252,10089,95.0,29.0,683.0,1,4,4,9,Loyal Customer
+253,2227,8.0,10.0,180.0,4,2,2,8,Loyal Customer
+254,10992,23.0,22.0,703.0,4,4,4,12,Loyal Customer
+255,5304,65.0,5.0,28.0,2,1,1,4,New Customer
+256,309,52.0,17.0,676.0,2,3,4,9,Loyal Customer
+257,3406,3.0,13.0,259.0,4,2,2,8,Loyal Customer
+258,2661,5.0,7.0,39.0,4,1,1,6,Potential Loyalists Customer
+259,3153,76.0,4.0,12.0,2,1,1,4,New Customer
+260,10264,40.0,5.0,26.0,3,1,1,5,New Customer
+261,1184,54.0,23.0,536.0,2,4,3,9,Loyal Customer
+262,4200,15.0,12.0,226.0,4,2,2,8,Loyal Customer
+263,9396,69.0,4.0,20.0,2,1,1,4,New Customer
+264,2387,91.0,12.0,226.0,1,2,2,5,New Customer
+265,6690,70.0,8.0,85.0,2,2,2,6,Potential Loyalists Customer
+266,1225,53.0,19.0,856.0,2,3,4,9,Loyal Customer
+267,9703,30.0,8.0,163.0,3,2,2,7,Potential Loyalists Customer
+268,291,87.0,13.0,608.0,1,2,3,6,Potential Loyalists Customer
+269,4557,89.0,7.0,62.0,1,1,1,3,Potential Lost Customer
+270,2379,69.0,13.0,908.0,2,2,4,8,Loyal Customer
+271,5726,85.0,8.0,55.0,1,2,1,4,New Customer
+272,3066,98.0,11.0,194.0,1,2,2,5,New Customer
+273,6336,45.0,7.0,43.0,3,1,1,5,New Customer
+274,10967,62.0,7.0,94.0,2,1,2,5,New Customer
+275,2304,14.0,22.0,497.0,4,4,3,11,Loyal Customer
+276,3445,44.0,22.0,592.0,3,4,3,10,Loyal Customer
+277,7828,71.0,12.0,522.0,2,2,3,7,Potential Loyalists Customer
+278,3762,70.0,17.0,576.0,2,3,3,8,Loyal Customer
+279,4391,36.0,22.0,568.0,3,4,3,10,Loyal Customer
+280,4669,54.0,8.0,97.0,2,2,2,6,Potential Loyalists Customer
+283,1672,26.0,15.0,345.0,4,3,3,10,Loyal Customer
+284,8962,82.0,6.0,32.0,1,1,1,3,Potential Lost Customer
+285,9974,25.0,7.0,65.0,4,1,2,7,Potential Loyalists Customer
+286,10983,83.0,23.0,580.0,1,4,3,8,Loyal Customer
+287,8148,12.0,21.0,541.0,4,4,3,11,Loyal Customer
+288,10102,81.0,22.0,849.0,1,4,4,9,Loyal Customer
+289,4697,38.0,14.0,296.0,3,3,2,8,Loyal Customer
+290,9262,89.0,5.0,47.0,1,1,1,3,Potential Lost Customer
+291,7254,26.0,8.0,124.0,4,2,2,8,Loyal Customer
+292,4543,68.0,19.0,989.0,2,3,4,9,Loyal Customer
+293,4927,24.0,7.0,63.0,4,1,1,6,Potential Loyalists Customer
+294,10451,94.0,4.0,20.0,1,1,1,3,Potential Lost Customer
+295,2926,38.0,21.0,806.0,3,4,4,11,Loyal Customer
+296,2874,80.0,5.0,27.0,1,1,1,3,Potential Lost Customer
+297,9738,57.0,7.0,95.0,2,1,2,5,New Customer
+298,7119,55.0,12.0,526.0,2,2,3,7,Potential Loyalists Customer
+299,3924,66.0,24.0,574.0,2,4,3,9,Loyal Customer
+300,5827,47.0,8.0,57.0,3,2,1,6,Potential Loyalists Customer
+301,5596,56.0,21.0,474.0,2,4,3,9,Loyal Customer
+302,10812,11.0,7.0,85.0,4,1,2,7,Potential Loyalists Customer
+303,1717,57.0,11.0,224.0,2,2,2,6,Potential Loyalists Customer
+304,9491,32.0,8.0,61.0,3,2,1,6,Potential Loyalists Customer
+305,9274,56.0,23.0,741.0,2,4,4,10,Loyal Customer
+306,6609,36.0,7.0,100.0,3,1,2,6,Potential Loyalists Customer
+307,6963,15.0,18.0,710.0,4,3,4,11,Loyal Customer
+308,4440,7.0,18.0,389.0,4,3,3,10,Loyal Customer
+309,1379,88.0,11.0,201.0,1,2,2,5,New Customer
+310,10032,14.0,8.0,48.0,4,2,1,7,Potential Loyalists Customer
+311,2826,72.0,6.0,32.0,2,1,1,4,New Customer
+313,6320,58.0,23.0,862.0,2,4,4,10,Loyal Customer
+314,3050,87.0,11.0,197.0,1,2,2,5,New Customer
+315,231,14.0,6.0,27.0,4,1,1,6,Potential Loyalists Customer
+316,2392,41.0,7.0,97.0,3,1,2,6,Potential Loyalists Customer
+317,9478,70.0,14.0,304.0,2,3,3,8,Loyal Customer
+318,113,67.0,5.0,23.0,2,1,1,4,New Customer
+320,1802,77.0,19.0,450.0,1,3,3,7,Potential Loyalists Customer
+321,520,19.0,4.0,25.0,4,1,1,6,Potential Loyalists Customer
+322,8275,94.0,4.0,15.0,1,1,1,3,Potential Lost Customer
+323,9750,59.0,19.0,782.0,2,3,4,9,Loyal Customer
+324,2607,22.0,19.0,427.0,4,3,3,10,Loyal Customer
+325,7214,51.0,18.0,773.0,3,3,4,10,Loyal Customer
+326,5835,61.0,7.0,60.0,2,1,1,4,New Customer
+327,3896,97.0,5.0,32.0,1,1,1,3,Potential Lost Customer
+328,10350,63.0,5.0,33.0,2,1,1,4,New Customer
+329,7786,78.0,9.0,144.0,1,2,2,5,New Customer
+330,2861,21.0,4.0,18.0,4,1,1,6,Potential Loyalists Customer
+331,663,54.0,6.0,66.0,2,1,2,5,New Customer
+332,10675,18.0,18.0,713.0,4,3,4,11,Loyal Customer
+333,2521,90.0,5.0,54.0,1,1,1,3,Potential Lost Customer
+334,9592,49.0,6.0,28.0,3,1,1,5,New Customer
+335,10151,62.0,22.0,589.0,2,4,3,9,Loyal Customer
+336,7381,90.0,22.0,835.0,1,4,4,9,Loyal Customer
+337,4099,86.0,5.0,57.0,1,1,1,3,Potential Lost Customer
+338,9560,82.0,22.0,920.0,1,4,4,9,Loyal Customer
+340,10172,5.0,21.0,875.0,4,4,4,12,Loyal Customer
+341,11191,89.0,8.0,126.0,1,2,2,5,New Customer
+342,9707,35.0,18.0,725.0,3,3,4,10,Loyal Customer
+343,6245,29.0,17.0,371.0,3,3,3,9,Loyal Customer
+344,8234,87.0,4.0,13.0,1,1,1,3,Potential Lost Customer
+345,1411,42.0,16.0,586.0,3,3,3,9,Loyal Customer
+346,8553,35.0,5.0,37.0,3,1,1,5,New Customer
+347,1826,100.0,15.0,730.0,1,3,4,8,Loyal Customer
+348,8842,67.0,6.0,39.0,2,1,1,4,New Customer
+349,11030,10.0,4.0,11.0,4,1,1,6,Potential Loyalists Customer
+350,2579,5.0,23.0,530.0,4,4,3,11,Loyal Customer
+351,175,7.0,21.0,836.0,4,4,4,12,Loyal Customer
+352,9185,62.0,16.0,635.0,2,3,3,8,Loyal Customer
+353,11056,82.0,18.0,728.0,1,3,4,8,Loyal Customer
+354,9365,43.0,20.0,769.0,3,4,4,11,Loyal Customer
+355,6201,55.0,6.0,44.0,2,1,1,4,New Customer
+356,2061,39.0,7.0,94.0,3,1,2,6,Potential Loyalists Customer
+357,6184,94.0,15.0,918.0,1,3,4,8,Loyal Customer
+358,6142,35.0,14.0,561.0,3,3,3,9,Loyal Customer
+359,4107,48.0,15.0,321.0,3,3,3,9,Loyal Customer
+360,7274,13.0,22.0,1029.0,4,4,4,12,Loyal Customer
+361,9336,62.0,19.0,432.0,2,3,3,8,Loyal Customer
+362,2958,47.0,8.0,52.0,3,2,1,6,Potential Loyalists Customer
+364,5837,33.0,16.0,362.0,3,3,3,9,Loyal Customer
+365,10704,35.0,18.0,460.0,3,3,3,9,Loyal Customer
+366,5125,36.0,26.0,798.0,3,4,4,11,Loyal Customer
+367,4432,18.0,6.0,46.0,4,1,1,6,Potential Loyalists Customer
+368,5955,73.0,16.0,995.0,2,3,4,9,Loyal Customer
+369,2928,37.0,15.0,613.0,3,3,3,9,Loyal Customer
+370,5680,34.0,5.0,25.0,3,1,1,5,New Customer
+371,10313,31.0,11.0,208.0,3,2,2,7,Potential Loyalists Customer
+372,2557,48.0,5.0,24.0,3,1,1,5,New Customer
+373,1245,55.0,20.0,805.0,2,4,4,10,Loyal Customer
+374,1519,98.0,7.0,68.0,1,1,2,4,New Customer
+375,10703,14.0,8.0,109.0,4,2,2,8,Loyal Customer
+376,1726,77.0,5.0,76.0,1,1,2,4,New Customer
+377,4459,87.0,5.0,32.0,1,1,1,3,Potential Lost Customer
+378,1729,86.0,19.0,809.0,1,3,4,8,Loyal Customer
+379,1517,8.0,5.0,46.0,4,1,1,6,Potential Loyalists Customer
+380,2098,62.0,4.0,12.0,2,1,1,4,New Customer
+381,9543,26.0,4.0,17.0,4,1,1,6,Potential Loyalists Customer
+382,6878,86.0,12.0,260.0,1,2,2,5,New Customer
+384,2724,67.0,4.0,14.0,2,1,1,4,New Customer
+385,948,68.0,6.0,36.0,2,1,1,4,New Customer
+386,6720,89.0,15.0,360.0,1,3,3,7,Potential Loyalists Customer
+387,6202,22.0,23.0,621.0,4,4,3,11,Loyal Customer
+388,2066,44.0,7.0,104.0,3,1,2,6,Potential Loyalists Customer
+389,9799,43.0,17.0,719.0,3,3,4,10,Loyal Customer
+390,8318,93.0,20.0,945.0,1,4,4,9,Loyal Customer
+391,5642,100.0,11.0,189.0,1,2,2,5,New Customer
+392,2669,34.0,16.0,691.0,3,3,4,10,Loyal Customer
+393,455,14.0,10.0,179.0,4,2,2,8,Loyal Customer
+394,7683,20.0,21.0,504.0,4,4,3,11,Loyal Customer
+395,3428,44.0,24.0,895.0,3,4,4,11,Loyal Customer
+396,7414,82.0,9.0,165.0,1,2,2,5,New Customer
+397,6354,49.0,5.0,42.0,3,1,1,5,New Customer
+398,798,29.0,5.0,22.0,3,1,1,5,New Customer
+399,8213,29.0,8.0,91.0,3,2,2,7,Potential Loyalists Customer
+400,2488,20.0,7.0,59.0,4,1,1,6,Potential Loyalists Customer
+401,9999,98.0,23.0,640.0,1,4,3,8,Loyal Customer
+402,7617,17.0,9.0,147.0,4,2,2,8,Loyal Customer
+403,615,71.0,11.0,270.0,2,2,2,6,Potential Loyalists Customer
+404,2552,89.0,16.0,335.0,1,3,3,7,Potential Loyalists Customer
+405,194,45.0,5.0,36.0,3,1,1,5,New Customer
+406,3645,81.0,7.0,65.0,1,1,2,4,New Customer
+407,8890,99.0,12.0,223.0,1,2,2,5,New Customer
+408,5049,81.0,6.0,41.0,1,1,1,3,Potential Lost Customer
+409,9973,72.0,17.0,358.0,2,3,3,8,Loyal Customer
+410,7301,24.0,7.0,74.0,4,1,2,7,Potential Loyalists Customer
+411,10882,50.0,14.0,573.0,3,3,3,9,Loyal Customer
+412,7030,99.0,33.0,853.0,1,4,4,9,Loyal Customer
+413,7422,10.0,14.0,286.0,4,3,2,9,Loyal Customer
+414,3523,17.0,18.0,659.0,4,3,4,11,Loyal Customer
+415,7106,27.0,19.0,756.0,3,3,4,10,Loyal Customer
+416,6504,76.0,7.0,73.0,2,1,2,5,New Customer
+417,5067,89.0,21.0,810.0,1,4,4,9,Loyal Customer
+418,4216,67.0,26.0,847.0,2,4,4,10,Loyal Customer
+419,8581,96.0,21.0,487.0,1,4,3,8,Loyal Customer
+420,5929,86.0,6.0,43.0,1,1,1,3,Potential Lost Customer
+422,6528,25.0,4.0,5.0,4,1,1,6,Potential Loyalists Customer
+423,1361,74.0,16.0,832.0,2,3,4,9,Loyal Customer
+424,6932,23.0,23.0,1026.0,4,4,4,12,Loyal Customer
+425,7284,92.0,4.0,15.0,1,1,1,3,Potential Lost Customer
+426,1340,58.0,27.0,959.0,2,4,4,10,Loyal Customer
+427,8746,72.0,18.0,728.0,2,3,4,9,Loyal Customer
+428,5987,48.0,6.0,38.0,3,1,1,5,New Customer
+429,3767,99.0,23.0,623.0,1,4,3,8,Loyal Customer
+430,3725,99.0,16.0,928.0,1,3,4,8,Loyal Customer
+431,4324,58.0,17.0,453.0,2,3,3,8,Loyal Customer
+432,238,24.0,25.0,664.0,4,4,4,12,Loyal Customer
+433,6694,73.0,25.0,656.0,2,4,4,10,Loyal Customer
+434,498,72.0,6.0,52.0,2,1,1,4,New Customer
+435,9347,51.0,5.0,41.0,3,1,1,5,New Customer
+436,9699,88.0,21.0,479.0,1,4,3,8,Loyal Customer
+437,10664,86.0,16.0,347.0,1,3,3,7,Potential Loyalists Customer
+438,5455,11.0,8.0,111.0,4,2,2,8,Loyal Customer
+439,456,4.0,6.0,31.0,4,1,1,6,Potential Loyalists Customer
+440,5012,44.0,5.0,29.0,3,1,1,5,New Customer
+441,7495,28.0,9.0,140.0,3,2,2,7,Potential Loyalists Customer
+442,5029,86.0,4.0,9.0,1,1,1,3,Potential Lost Customer
+444,2106,1.0,5.0,29.0,4,1,1,6,Potential Loyalists Customer
+445,10364,28.0,4.0,15.0,3,1,1,5,New Customer
+446,5954,8.0,10.0,170.0,4,2,2,8,Loyal Customer
+447,1137,13.0,17.0,811.0,4,3,4,11,Loyal Customer
+448,2541,93.0,6.0,43.0,1,1,1,3,Potential Lost Customer
+449,1142,9.0,15.0,323.0,4,3,3,10,Loyal Customer
+450,2276,29.0,23.0,545.0,3,4,3,10,Loyal Customer
+451,2807,76.0,25.0,618.0,2,4,3,9,Loyal Customer
+452,6471,83.0,7.0,54.0,1,1,1,3,Potential Lost Customer
+453,6131,13.0,15.0,325.0,4,3,3,10,Loyal Customer
+454,6233,79.0,25.0,602.0,1,4,3,8,Loyal Customer
+455,4148,10.0,13.0,272.0,4,2,2,8,Loyal Customer
+456,4947,56.0,24.0,1014.0,2,4,4,10,Loyal Customer
+457,3225,29.0,11.0,216.0,3,2,2,7,Potential Loyalists Customer
+458,7540,48.0,12.0,221.0,3,2,2,7,Potential Loyalists Customer
+459,10648,22.0,19.0,776.0,4,3,4,11,Loyal Customer
+460,1992,98.0,13.0,557.0,1,2,3,6,Potential Loyalists Customer
+461,7851,40.0,22.0,577.0,3,4,3,10,Loyal Customer
+462,8594,75.0,8.0,123.0,2,2,2,6,Potential Loyalists Customer
+464,2815,54.0,8.0,109.0,2,2,2,6,Potential Loyalists Customer
+465,2416,17.0,20.0,775.0,4,4,4,12,Loyal Customer
+466,7999,83.0,17.0,946.0,1,3,4,8,Loyal Customer
+467,9213,87.0,4.0,10.0,1,1,1,3,Potential Lost Customer
+468,9697,14.0,18.0,386.0,4,3,3,10,Loyal Customer
+469,3916,8.0,23.0,555.0,4,4,3,11,Loyal Customer
+470,2021,53.0,30.0,817.0,2,4,4,10,Loyal Customer
+471,1581,82.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+472,564,19.0,24.0,566.0,4,4,3,11,Loyal Customer
+473,6619,9.0,5.0,39.0,4,1,1,6,Potential Loyalists Customer
+474,9081,42.0,5.0,20.0,3,1,1,5,New Customer
+475,178,60.0,23.0,604.0,2,4,3,9,Loyal Customer
+476,916,33.0,5.0,26.0,3,1,1,5,New Customer
+477,5512,81.0,17.0,373.0,1,3,3,7,Potential Loyalists Customer
+478,8970,7.0,16.0,382.0,4,3,3,10,Loyal Customer
+479,10581,59.0,15.0,370.0,2,3,3,8,Loyal Customer
+480,5300,40.0,6.0,65.0,3,1,2,6,Potential Loyalists Customer
+481,5154,46.0,6.0,49.0,3,1,1,5,New Customer
+482,8346,74.0,11.0,239.0,2,2,2,6,Potential Loyalists Customer
+483,1676,70.0,12.0,217.0,2,2,2,6,Potential Loyalists Customer
+484,9286,7.0,19.0,485.0,4,3,3,10,Loyal Customer
+485,2426,65.0,29.0,559.0,2,4,3,9,Loyal Customer
+486,5172,96.0,16.0,649.0,1,3,4,8,Loyal Customer
+487,5562,8.0,20.0,481.0,4,4,3,11,Loyal Customer
+488,3436,76.0,5.0,15.0,2,1,1,4,New Customer
+489,3921,4.0,10.0,178.0,4,2,2,8,Loyal Customer
+490,3403,89.0,20.0,1023.0,1,4,4,9,Loyal Customer
+491,22,1.0,13.0,248.0,4,2,2,8,Loyal Customer
+492,10965,28.0,22.0,938.0,3,4,4,11,Loyal Customer
+493,9426,23.0,12.0,561.0,4,2,3,9,Loyal Customer
+494,6605,15.0,20.0,451.0,4,4,3,11,Loyal Customer
+495,3136,12.0,20.0,445.0,4,4,3,11,Loyal Customer
+496,8737,78.0,6.0,38.0,1,1,1,3,Potential Lost Customer
+497,11088,17.0,18.0,966.0,4,3,4,11,Loyal Customer
+498,716,37.0,25.0,606.0,3,4,3,10,Loyal Customer
+499,466,91.0,21.0,484.0,1,4,3,8,Loyal Customer
+500,9135,8.0,5.0,59.0,4,1,1,6,Potential Loyalists Customer
+501,10623,98.0,5.0,27.0,1,1,1,3,Potential Lost Customer
+502,8151,94.0,9.0,214.0,1,2,2,5,New Customer
+503,5140,34.0,20.0,837.0,3,4,4,11,Loyal Customer
+505,4945,71.0,27.0,739.0,2,4,4,10,Loyal Customer
+506,10584,23.0,24.0,588.0,4,4,3,11,Loyal Customer
+507,6071,23.0,22.0,710.0,4,4,4,12,Loyal Customer
+508,3386,29.0,8.0,124.0,3,2,2,7,Potential Loyalists Customer
+509,8939,51.0,20.0,476.0,3,4,3,10,Loyal Customer
+510,9925,3.0,10.0,184.0,4,2,2,8,Loyal Customer
+511,4320,94.0,23.0,587.0,1,4,3,8,Loyal Customer
+512,5389,7.0,14.0,271.0,4,3,2,9,Loyal Customer
+513,6036,22.0,19.0,992.0,4,3,4,11,Loyal Customer
+514,182,38.0,14.0,301.0,3,3,2,8,Loyal Customer
+515,203,53.0,22.0,1021.0,2,4,4,10,Loyal Customer
+516,11025,91.0,8.0,125.0,1,2,2,5,New Customer
+517,10203,23.0,5.0,37.0,4,1,1,6,Potential Loyalists Customer
+518,4607,76.0,17.0,501.0,2,3,3,8,Loyal Customer
+519,3711,81.0,20.0,985.0,1,4,4,9,Loyal Customer
+520,3696,33.0,6.0,47.0,3,1,1,5,New Customer
+521,2532,5.0,13.0,913.0,4,2,4,10,Loyal Customer
+522,9214,52.0,13.0,278.0,2,2,2,6,Potential Loyalists Customer
+523,4943,27.0,16.0,940.0,3,3,4,10,Loyal Customer
+524,35,65.0,8.0,180.0,2,2,2,6,Potential Loyalists Customer
+525,2258,24.0,5.0,37.0,4,1,1,6,Potential Loyalists Customer
+526,4322,80.0,20.0,777.0,1,4,4,9,Loyal Customer
+527,713,28.0,15.0,332.0,3,3,3,9,Loyal Customer
+528,4702,80.0,17.0,982.0,1,3,4,8,Loyal Customer
+529,3281,31.0,14.0,311.0,3,3,3,9,Loyal Customer
+530,702,20.0,16.0,375.0,4,3,3,10,Loyal Customer
+531,2004,35.0,17.0,716.0,3,3,4,10,Loyal Customer
+532,4769,48.0,17.0,361.0,3,3,3,9,Loyal Customer
+533,4437,35.0,11.0,213.0,3,2,2,7,Potential Loyalists Customer
+534,8724,43.0,6.0,41.0,3,1,1,5,New Customer
+535,10741,30.0,13.0,257.0,3,2,2,7,Potential Loyalists Customer
+536,1991,100.0,7.0,91.0,1,1,2,4,New Customer
+537,6931,81.0,16.0,651.0,1,3,4,8,Loyal Customer
+538,11096,50.0,11.0,195.0,3,2,2,7,Potential Loyalists Customer
+539,304,33.0,7.0,71.0,3,1,2,6,Potential Loyalists Customer
+540,3665,54.0,7.0,49.0,2,1,1,4,New Customer
+541,10591,63.0,10.0,176.0,2,2,2,6,Potential Loyalists Customer
+542,5036,62.0,13.0,307.0,2,2,3,7,Potential Loyalists Customer
+543,5547,91.0,20.0,989.0,1,4,4,9,Loyal Customer
+544,7822,44.0,19.0,444.0,3,3,3,9,Loyal Customer
+545,8541,2.0,7.0,36.0,4,1,1,6,Potential Loyalists Customer
+546,10955,32.0,14.0,896.0,3,3,4,10,Loyal Customer
+547,4368,28.0,8.0,122.0,3,2,2,7,Potential Loyalists Customer
+548,9671,53.0,7.0,64.0,2,1,1,4,New Customer
+549,2256,67.0,5.0,16.0,2,1,1,4,New Customer
+550,4279,13.0,6.0,49.0,4,1,1,6,Potential Loyalists Customer
+551,5371,100.0,7.0,86.0,1,1,2,4,New Customer
+552,9240,27.0,17.0,378.0,3,3,3,9,Loyal Customer
+553,9460,26.0,8.0,146.0,4,2,2,8,Loyal Customer
+554,9504,96.0,25.0,623.0,1,4,3,8,Loyal Customer
+555,8692,50.0,11.0,200.0,3,2,2,7,Potential Loyalists Customer
+556,448,43.0,20.0,509.0,3,4,3,10,Loyal Customer
+557,8314,70.0,19.0,953.0,2,3,4,9,Loyal Customer
+558,8420,73.0,7.0,59.0,2,1,1,4,New Customer
+559,3174,39.0,20.0,999.0,3,4,4,11,Loyal Customer
+560,7685,96.0,7.0,73.0,1,1,2,4,New Customer
+561,3179,25.0,20.0,883.0,4,4,4,12,Loyal Customer
+562,9780,88.0,25.0,509.0,1,4,3,8,Loyal Customer
+563,10681,87.0,22.0,554.0,1,4,3,8,Loyal Customer
+564,10232,91.0,13.0,264.0,1,2,2,5,New Customer
+565,4184,52.0,11.0,216.0,2,2,2,6,Potential Loyalists Customer
+566,9120,20.0,16.0,653.0,4,3,4,11,Loyal Customer
+567,891,40.0,4.0,6.0,3,1,1,5,New Customer
+568,10381,57.0,4.0,16.0,2,1,1,4,New Customer
+569,3525,81.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+570,6818,74.0,12.0,286.0,2,2,2,6,Potential Loyalists Customer
+571,3526,42.0,5.0,33.0,3,1,1,5,New Customer
+572,8181,58.0,9.0,158.0,2,2,2,6,Potential Loyalists Customer
+573,1029,73.0,12.0,229.0,2,2,2,6,Potential Loyalists Customer
+574,7369,44.0,6.0,57.0,3,1,1,5,New Customer
+575,2574,73.0,19.0,749.0,2,3,4,9,Loyal Customer
+576,8159,90.0,9.0,161.0,1,2,2,5,New Customer
+577,1160,52.0,7.0,44.0,2,1,1,4,New Customer
+578,10242,61.0,7.0,70.0,2,1,2,5,New Customer
+579,5253,15.0,11.0,193.0,4,2,2,8,Loyal Customer
+580,5966,36.0,11.0,183.0,3,2,2,7,Potential Loyalists Customer
+582,5081,46.0,5.0,42.0,3,1,1,5,New Customer
+583,5123,43.0,7.0,129.0,3,1,2,6,Potential Loyalists Customer
+584,5756,36.0,6.0,50.0,3,1,1,5,New Customer
+585,8036,90.0,8.0,58.0,1,2,1,4,New Customer
+586,9058,35.0,22.0,977.0,3,4,4,11,Loyal Customer
+587,5057,26.0,19.0,421.0,4,3,3,10,Loyal Customer
+588,254,96.0,16.0,350.0,1,3,3,7,Potential Loyalists Customer
+589,4179,6.0,6.0,50.0,4,1,1,6,Potential Loyalists Customer
+590,3710,59.0,6.0,76.0,2,1,2,5,New Customer
+591,7627,75.0,22.0,1018.0,2,4,4,10,Loyal Customer
+592,4501,6.0,20.0,849.0,4,4,4,12,Loyal Customer
+593,6424,91.0,5.0,44.0,1,1,1,3,Potential Lost Customer
+594,3075,53.0,15.0,292.0,2,3,2,7,Potential Loyalists Customer
+595,4992,88.0,7.0,64.0,1,1,1,3,Potential Lost Customer
+596,5252,20.0,6.0,62.0,4,1,1,6,Potential Loyalists Customer
+597,7444,80.0,5.0,25.0,1,1,1,3,Potential Lost Customer
+598,6919,61.0,7.0,58.0,2,1,1,4,New Customer
+599,3537,43.0,8.0,74.0,3,2,2,7,Potential Loyalists Customer
+600,10277,73.0,5.0,37.0,2,1,1,4,New Customer
+601,2453,17.0,21.0,523.0,4,4,3,11,Loyal Customer
+602,7972,21.0,17.0,706.0,4,3,4,11,Loyal Customer
+603,895,31.0,18.0,410.0,3,3,3,9,Loyal Customer
+604,1177,23.0,8.0,117.0,4,2,2,8,Loyal Customer
+605,7141,85.0,9.0,182.0,1,2,2,5,New Customer
+607,8477,39.0,5.0,23.0,3,1,1,5,New Customer
+608,2457,77.0,5.0,40.0,1,1,1,3,Potential Lost Customer
+609,988,16.0,18.0,733.0,4,3,4,11,Loyal Customer
+610,7930,26.0,11.0,219.0,4,2,2,8,Loyal Customer
+611,4587,10.0,12.0,217.0,4,2,2,8,Loyal Customer
+612,6682,59.0,5.0,32.0,2,1,1,4,New Customer
+614,10299,27.0,23.0,552.0,3,4,3,10,Loyal Customer
+615,3083,12.0,14.0,289.0,4,3,2,9,Loyal Customer
+616,8953,6.0,5.0,30.0,4,1,1,6,Potential Loyalists Customer
+617,1503,69.0,2.0,100.0,2,1,2,5,New Customer
+618,8650,69.0,5.0,37.0,2,1,1,4,New Customer
+619,10862,94.0,13.0,262.0,1,2,2,5,New Customer
+620,2782,77.0,15.0,305.0,1,3,3,7,Potential Loyalists Customer
+621,6941,8.0,6.0,90.0,4,1,2,7,Potential Loyalists Customer
+622,10972,48.0,14.0,585.0,3,3,3,9,Loyal Customer
+623,10708,50.0,5.0,28.0,3,1,1,5,New Customer
+624,6583,46.0,21.0,608.0,3,4,3,10,Loyal Customer
+625,3641,7.0,6.0,31.0,4,1,1,6,Potential Loyalists Customer
+626,10156,44.0,20.0,753.0,3,4,4,11,Loyal Customer
+627,4299,72.0,28.0,969.0,2,4,4,10,Loyal Customer
+628,3469,6.0,7.0,98.0,4,1,2,7,Potential Loyalists Customer
+629,5063,24.0,10.0,169.0,4,2,2,8,Loyal Customer
+630,10727,57.0,24.0,890.0,2,4,4,10,Loyal Customer
+631,9624,54.0,14.0,595.0,2,3,3,8,Loyal Customer
+633,4376,73.0,7.0,88.0,2,1,2,5,New Customer
+634,8923,88.0,21.0,891.0,1,4,4,9,Loyal Customer
+635,8461,97.0,4.0,11.0,1,1,1,3,Potential Lost Customer
+636,6945,28.0,32.0,807.0,3,4,4,11,Loyal Customer
+637,944,94.0,14.0,298.0,1,3,2,6,Potential Loyalists Customer
+638,1907,47.0,22.0,848.0,3,4,4,11,Loyal Customer
+639,701,42.0,17.0,723.0,3,3,4,10,Loyal Customer
+641,4149,43.0,21.0,798.0,3,4,4,11,Loyal Customer
+642,2131,63.0,20.0,782.0,2,4,4,10,Loyal Customer
+643,2942,80.0,14.0,356.0,1,3,3,7,Potential Loyalists Customer
+644,1173,27.0,13.0,1036.0,3,2,4,9,Loyal Customer
+645,4381,44.0,11.0,197.0,3,2,2,7,Potential Loyalists Customer
+646,4611,64.0,31.0,939.0,2,4,4,10,Loyal Customer
+647,3376,91.0,11.0,197.0,1,2,2,5,New Customer
+648,4679,58.0,26.0,671.0,2,4,4,10,Loyal Customer
+649,10928,72.0,16.0,414.0,2,3,3,8,Loyal Customer
+650,4248,77.0,20.0,1005.0,1,4,4,9,Loyal Customer
+651,6728,62.0,5.0,43.0,2,1,1,4,New Customer
+652,6661,37.0,28.0,720.0,3,4,4,11,Loyal Customer
+653,4725,29.0,7.0,62.0,3,1,1,5,New Customer
+654,3277,91.0,14.0,283.0,1,3,2,6,Potential Loyalists Customer
+655,5555,19.0,1.0,2.0,4,1,1,6,Potential Loyalists Customer
+656,2564,13.0,9.0,148.0,4,2,2,8,Loyal Customer
+658,3867,64.0,26.0,673.0,2,4,4,10,Loyal Customer
+659,6940,14.0,9.0,190.0,4,2,2,8,Loyal Customer
+660,55,17.0,19.0,413.0,4,3,3,10,Loyal Customer
+662,5084,13.0,24.0,652.0,4,4,4,12,Loyal Customer
+663,1777,71.0,6.0,69.0,2,1,2,5,New Customer
+664,8162,12.0,5.0,21.0,4,1,1,6,Potential Loyalists Customer
+665,10826,23.0,5.0,55.0,4,1,1,6,Potential Loyalists Customer
+666,8754,75.0,4.0,15.0,2,1,1,4,New Customer
+667,1987,66.0,6.0,54.0,2,1,1,4,New Customer
+668,11007,57.0,5.0,29.0,2,1,1,4,New Customer
+669,7426,24.0,10.0,174.0,4,2,2,8,Loyal Customer
+670,9153,19.0,26.0,646.0,4,4,3,11,Loyal Customer
+671,10379,13.0,17.0,401.0,4,3,3,10,Loyal Customer
+672,9204,67.0,14.0,635.0,2,3,3,8,Loyal Customer
+673,3197,62.0,19.0,447.0,2,3,3,8,Loyal Customer
+675,6961,74.0,4.0,6.0,2,1,1,4,New Customer
+676,4673,83.0,19.0,755.0,1,3,4,8,Loyal Customer
+677,9937,25.0,17.0,403.0,4,3,3,10,Loyal Customer
+678,8779,87.0,9.0,153.0,1,2,2,5,New Customer
+679,9596,81.0,20.0,446.0,1,4,3,8,Loyal Customer
+680,2891,49.0,22.0,578.0,3,4,3,10,Loyal Customer
+681,4910,19.0,30.0,1016.0,4,4,4,12,Loyal Customer
+682,75,68.0,15.0,347.0,2,3,3,8,Loyal Customer
+683,10120,16.0,11.0,210.0,4,2,2,8,Loyal Customer
+684,6327,13.0,17.0,701.0,4,3,4,11,Loyal Customer
+685,10142,1.0,19.0,456.0,4,3,3,10,Loyal Customer
+686,9826,4.0,22.0,1024.0,4,4,4,12,Loyal Customer
+687,1501,79.0,30.0,937.0,1,4,4,9,Loyal Customer
+688,10767,60.0,21.0,797.0,2,4,4,10,Loyal Customer
+689,7279,97.0,15.0,643.0,1,3,3,7,Potential Loyalists Customer
+690,7230,2.0,17.0,361.0,4,3,3,10,Loyal Customer
+691,143,27.0,13.0,592.0,3,2,3,8,Loyal Customer
+692,450,10.0,10.0,221.0,4,2,2,8,Loyal Customer
+693,9316,71.0,5.0,24.0,2,1,1,4,New Customer
+694,6379,97.0,7.0,110.0,1,1,2,4,New Customer
+695,9239,6.0,8.0,114.0,4,2,2,8,Loyal Customer
+696,8315,35.0,4.0,18.0,3,1,1,5,New Customer
+697,2868,67.0,6.0,52.0,2,1,1,4,New Customer
+698,10888,54.0,19.0,432.0,2,3,3,8,Loyal Customer
+699,1277,71.0,28.0,620.0,2,4,3,9,Loyal Customer
+700,9977,1.0,18.0,480.0,4,3,3,10,Loyal Customer
+701,10196,74.0,19.0,423.0,2,3,3,8,Loyal Customer
+702,6384,70.0,19.0,839.0,2,3,4,9,Loyal Customer
+703,8029,73.0,15.0,903.0,2,3,4,9,Loyal Customer
+704,968,76.0,10.0,166.0,2,2,2,6,Potential Loyalists Customer
+706,4472,66.0,6.0,52.0,2,1,1,4,New Customer
+707,6991,12.0,19.0,433.0,4,3,3,10,Loyal Customer
+708,3336,4.0,12.0,590.0,4,2,3,9,Loyal Customer
+710,1940,74.0,4.0,13.0,2,1,1,4,New Customer
+711,1272,51.0,23.0,564.0,3,4,3,10,Loyal Customer
+712,1388,89.0,7.0,103.0,1,1,2,4,New Customer
+713,1044,56.0,18.0,412.0,2,3,3,8,Loyal Customer
+714,6969,25.0,11.0,196.0,4,2,2,8,Loyal Customer
+715,10479,36.0,11.0,863.0,3,2,4,9,Loyal Customer
+716,3619,81.0,17.0,707.0,1,3,4,8,Loyal Customer
+717,1715,55.0,6.0,43.0,2,1,1,4,New Customer
+718,10159,23.0,26.0,726.0,4,4,4,12,Loyal Customer
+719,1463,91.0,4.0,16.0,1,1,1,3,Potential Lost Customer
+720,5114,99.0,15.0,597.0,1,3,3,7,Potential Loyalists Customer
+721,4990,10.0,21.0,546.0,4,4,3,11,Loyal Customer
+722,4329,57.0,5.0,11.0,2,1,1,4,New Customer
+723,10936,21.0,16.0,997.0,4,3,4,11,Loyal Customer
+724,4692,81.0,8.0,66.0,1,2,2,5,New Customer
+726,6086,38.0,24.0,812.0,3,4,4,11,Loyal Customer
+727,437,59.0,23.0,633.0,2,4,3,9,Loyal Customer
+728,11171,40.0,15.0,311.0,3,3,3,9,Loyal Customer
+729,11101,83.0,26.0,531.0,1,4,3,8,Loyal Customer
+730,5329,76.0,4.0,6.0,2,1,1,4,New Customer
+731,610,40.0,16.0,352.0,3,3,3,9,Loyal Customer
+733,5956,26.0,12.0,232.0,4,2,2,8,Loyal Customer
+734,10430,78.0,12.0,846.0,1,2,4,7,Potential Loyalists Customer
+735,7875,54.0,26.0,922.0,2,4,4,10,Loyal Customer
+736,7072,31.0,18.0,792.0,3,3,4,10,Loyal Customer
+737,6255,71.0,13.0,266.0,2,2,2,6,Potential Loyalists Customer
+738,6516,63.0,4.0,13.0,2,1,1,4,New Customer
+739,5564,74.0,19.0,794.0,2,3,4,9,Loyal Customer
+740,5682,92.0,27.0,675.0,1,4,4,9,Loyal Customer
+741,7458,74.0,7.0,92.0,2,1,2,5,New Customer
+742,5237,21.0,7.0,58.0,4,1,1,6,Potential Loyalists Customer
+743,7761,29.0,8.0,102.0,3,2,2,7,Potential Loyalists Customer
+744,5278,17.0,21.0,563.0,4,4,3,11,Loyal Customer
+745,3560,43.0,20.0,885.0,3,4,4,11,Loyal Customer
+746,7235,63.0,7.0,33.0,2,1,1,4,New Customer
+747,10548,70.0,24.0,593.0,2,4,3,9,Loyal Customer
+748,2281,66.0,4.0,23.0,2,1,1,4,New Customer
+749,4073,100.0,28.0,742.0,1,4,4,9,Loyal Customer
+750,6974,11.0,22.0,857.0,4,4,4,12,Loyal Customer
+751,7938,8.0,16.0,338.0,4,3,3,10,Loyal Customer
+753,3667,80.0,25.0,950.0,1,4,4,9,Loyal Customer
+754,7723,44.0,21.0,834.0,3,4,4,11,Loyal Customer
+755,3870,72.0,24.0,622.0,2,4,3,9,Loyal Customer
+756,4012,45.0,19.0,746.0,3,3,4,10,Loyal Customer
+757,5909,75.0,16.0,718.0,2,3,4,9,Loyal Customer
+758,10470,100.0,7.0,87.0,1,1,2,4,New Customer
+759,6488,14.0,8.0,94.0,4,2,2,8,Loyal Customer
+760,10270,92.0,7.0,61.0,1,1,1,3,Potential Lost Customer
+761,6887,67.0,18.0,397.0,2,3,3,8,Loyal Customer
+762,6406,87.0,21.0,829.0,1,4,4,9,Loyal Customer
+763,7573,88.0,6.0,81.0,1,1,2,4,New Customer
+764,4508,8.0,19.0,528.0,4,3,3,10,Loyal Customer
+765,221,10.0,10.0,202.0,4,2,2,8,Loyal Customer
+766,5331,92.0,17.0,978.0,1,3,4,8,Loyal Customer
+767,1911,94.0,29.0,800.0,1,4,4,9,Loyal Customer
+768,20,9.0,8.0,162.0,4,2,2,8,Loyal Customer
+769,8786,48.0,15.0,339.0,3,3,3,9,Loyal Customer
+770,10582,97.0,20.0,490.0,1,4,3,8,Loyal Customer
+771,1915,43.0,20.0,861.0,3,4,4,11,Loyal Customer
+772,8897,91.0,18.0,439.0,1,3,3,7,Potential Loyalists Customer
+773,2371,78.0,7.0,76.0,1,1,2,4,New Customer
+774,4303,24.0,2.0,124.0,4,1,2,7,Potential Loyalists Customer
+775,6825,14.0,4.0,11.0,4,1,1,6,Potential Loyalists Customer
+776,1072,36.0,7.0,88.0,3,1,2,6,Potential Loyalists Customer
+777,4964,10.0,18.0,711.0,4,3,4,11,Loyal Customer
+778,2461,21.0,5.0,38.0,4,1,1,6,Potential Loyalists Customer
+779,10736,72.0,21.0,868.0,2,4,4,10,Loyal Customer
+780,3194,14.0,19.0,749.0,4,3,4,11,Loyal Customer
+781,10839,58.0,5.0,24.0,2,1,1,4,New Customer
+782,49,61.0,5.0,20.0,2,1,1,4,New Customer
+783,4290,92.0,4.0,19.0,1,1,1,3,Potential Lost Customer
+784,10219,60.0,5.0,33.0,2,1,1,4,New Customer
+785,4211,95.0,6.0,52.0,1,1,1,3,Potential Lost Customer
+786,1135,4.0,8.0,42.0,4,2,1,7,Potential Loyalists Customer
+787,6299,72.0,19.0,518.0,2,3,3,8,Loyal Customer
+788,10846,78.0,17.0,426.0,1,3,3,7,Potential Loyalists Customer
+789,347,70.0,14.0,290.0,2,3,2,7,Potential Loyalists Customer
+790,6543,55.0,14.0,899.0,2,3,4,9,Loyal Customer
+791,10446,42.0,17.0,475.0,3,3,3,9,Loyal Customer
+792,3479,51.0,6.0,45.0,3,1,1,5,New Customer
+793,11075,63.0,12.0,221.0,2,2,2,6,Potential Loyalists Customer
+794,4442,30.0,8.0,158.0,3,2,2,7,Potential Loyalists Customer
+795,199,67.0,13.0,253.0,2,2,2,6,Potential Loyalists Customer
+796,6722,2.0,21.0,495.0,4,4,3,11,Loyal Customer
+797,796,83.0,24.0,657.0,1,4,4,9,Loyal Customer
+798,3749,46.0,24.0,888.0,3,4,4,11,Loyal Customer
+799,8523,61.0,8.0,55.0,2,2,1,5,New Customer
+800,310,19.0,18.0,400.0,4,3,3,10,Loyal Customer
+801,8629,29.0,5.0,36.0,3,1,1,5,New Customer
+802,236,38.0,8.0,151.0,3,2,2,7,Potential Loyalists Customer
+803,9930,92.0,28.0,715.0,1,4,4,9,Loyal Customer
+804,3483,24.0,23.0,869.0,4,4,4,12,Loyal Customer
+805,4599,34.0,16.0,342.0,3,3,3,9,Loyal Customer
+806,7326,17.0,6.0,58.0,4,1,1,6,Potential Loyalists Customer
+807,7352,72.0,14.0,306.0,2,3,3,8,Loyal Customer
+808,2350,13.0,14.0,633.0,4,3,3,10,Loyal Customer
+809,9145,57.0,21.0,849.0,2,4,4,10,Loyal Customer
+810,2964,100.0,5.0,67.0,1,1,2,4,New Customer
+811,5585,99.0,6.0,43.0,1,1,1,3,Potential Lost Customer
+812,9687,99.0,16.0,472.0,1,3,3,7,Potential Loyalists Customer
+813,3732,28.0,22.0,542.0,3,4,3,10,Loyal Customer
+814,6303,28.0,23.0,857.0,3,4,4,11,Loyal Customer
+815,11176,88.0,17.0,363.0,1,3,3,7,Potential Loyalists Customer
+816,2986,11.0,4.0,15.0,4,1,1,6,Potential Loyalists Customer
+817,7462,33.0,17.0,399.0,3,3,3,9,Loyal Customer
+818,3900,46.0,21.0,496.0,3,4,3,10,Loyal Customer
+819,7034,66.0,6.0,50.0,2,1,1,4,New Customer
+820,9493,85.0,18.0,963.0,1,3,4,8,Loyal Customer
+821,1143,57.0,6.0,50.0,2,1,1,4,New Customer
+822,1,100.0,18.0,404.0,1,3,3,7,Potential Loyalists Customer
+825,5989,49.0,24.0,887.0,3,4,4,11,Loyal Customer
+826,9499,3.0,15.0,901.0,4,3,4,11,Loyal Customer
+827,6768,25.0,5.0,31.0,4,1,1,6,Potential Loyalists Customer
+828,2150,17.0,22.0,851.0,4,4,4,12,Loyal Customer
+829,6646,77.0,5.0,17.0,1,1,1,3,Potential Lost Customer
+830,4887,35.0,6.0,58.0,3,1,1,5,New Customer
+831,8560,6.0,18.0,450.0,4,3,3,10,Loyal Customer
+832,3321,58.0,18.0,386.0,2,3,3,8,Loyal Customer
+833,11003,90.0,6.0,45.0,1,1,1,3,Potential Lost Customer
+834,10402,6.0,5.0,34.0,4,1,1,6,Potential Loyalists Customer
+835,9904,50.0,24.0,642.0,3,4,3,10,Loyal Customer
+836,6141,54.0,13.0,294.0,2,2,2,6,Potential Loyalists Customer
+837,5687,2.0,27.0,907.0,4,4,4,12,Loyal Customer
+838,10856,58.0,5.0,41.0,2,1,1,4,New Customer
+839,5121,70.0,19.0,491.0,2,3,3,8,Loyal Customer
+840,4186,89.0,7.0,71.0,1,1,2,4,New Customer
+841,368,39.0,12.0,235.0,3,2,2,7,Potential Loyalists Customer
+842,3312,88.0,8.0,84.0,1,2,2,5,New Customer
+843,11121,24.0,8.0,65.0,4,2,2,8,Loyal Customer
+844,5332,98.0,17.0,654.0,1,3,4,8,Loyal Customer
+845,5848,57.0,19.0,1006.0,2,3,4,9,Loyal Customer
+846,10343,73.0,18.0,796.0,2,3,4,9,Loyal Customer
+847,5935,40.0,21.0,493.0,3,4,3,10,Loyal Customer
+848,2895,21.0,10.0,173.0,4,2,2,8,Loyal Customer
+849,10262,4.0,8.0,48.0,4,2,1,7,Potential Loyalists Customer
+850,7848,83.0,12.0,285.0,1,2,2,5,New Customer
+852,4856,62.0,25.0,975.0,2,4,4,10,Loyal Customer
+853,7186,57.0,5.0,30.0,2,1,1,4,New Customer
+854,5794,99.0,16.0,335.0,1,3,3,7,Potential Loyalists Customer
+855,1456,75.0,25.0,724.0,2,4,4,10,Loyal Customer
+856,4877,98.0,5.0,36.0,1,1,1,3,Potential Lost Customer
+857,425,34.0,20.0,473.0,3,4,3,10,Loyal Customer
+858,3007,51.0,5.0,35.0,3,1,1,5,New Customer
+859,1031,95.0,26.0,651.0,1,4,4,9,Loyal Customer
+860,4297,29.0,6.0,35.0,3,1,1,5,New Customer
+861,807,65.0,12.0,236.0,2,2,2,6,Potential Loyalists Customer
+862,9553,6.0,4.0,10.0,4,1,1,6,Potential Loyalists Customer
+863,4271,20.0,12.0,269.0,4,2,2,8,Loyal Customer
+864,4120,39.0,12.0,286.0,3,2,2,7,Potential Loyalists Customer
+865,2036,71.0,15.0,304.0,2,3,3,8,Loyal Customer
+866,115,100.0,15.0,298.0,1,3,2,6,Potential Loyalists Customer
+867,4259,20.0,4.0,5.0,4,1,1,6,Potential Loyalists Customer
+868,8687,46.0,14.0,356.0,3,3,3,9,Loyal Customer
+869,2447,29.0,6.0,64.0,3,1,1,5,New Customer
+870,10140,73.0,17.0,940.0,2,3,4,9,Loyal Customer
+871,9353,39.0,15.0,616.0,3,3,3,9,Loyal Customer
+872,3623,45.0,8.0,40.0,3,2,1,6,Potential Loyalists Customer
+873,738,65.0,9.0,161.0,2,2,2,6,Potential Loyalists Customer
+874,7631,66.0,23.0,612.0,2,4,3,9,Loyal Customer
+875,4789,5.0,18.0,922.0,4,3,4,11,Loyal Customer
+876,773,36.0,17.0,411.0,3,3,3,9,Loyal Customer
+877,10602,70.0,8.0,140.0,2,2,2,6,Potential Loyalists Customer
+878,1446,88.0,28.0,746.0,1,4,4,9,Loyal Customer
+879,3270,4.0,8.0,116.0,4,2,2,8,Loyal Customer
+880,8443,84.0,7.0,81.0,1,1,2,4,New Customer
+881,9653,84.0,6.0,63.0,1,1,1,3,Potential Lost Customer
+882,8916,22.0,4.0,11.0,4,1,1,6,Potential Loyalists Customer
+883,8017,17.0,6.0,50.0,4,1,1,6,Potential Loyalists Customer
+885,4597,33.0,19.0,1008.0,3,3,4,10,Loyal Customer
+886,7023,13.0,12.0,214.0,4,2,2,8,Loyal Customer
+887,8086,66.0,6.0,50.0,2,1,1,4,New Customer
+888,8825,54.0,17.0,397.0,2,3,3,8,Loyal Customer
+889,2930,93.0,19.0,771.0,1,3,4,8,Loyal Customer
+890,1928,27.0,6.0,78.0,3,1,2,6,Potential Loyalists Customer
+891,7108,46.0,13.0,275.0,3,2,2,7,Potential Loyalists Customer
+892,10925,7.0,25.0,619.0,4,4,3,11,Loyal Customer
+893,9960,48.0,4.0,9.0,3,1,1,5,New Customer
+895,9224,19.0,24.0,698.0,4,4,4,12,Loyal Customer
+896,5519,92.0,20.0,510.0,1,4,3,8,Loyal Customer
+897,5046,3.0,24.0,909.0,4,4,4,12,Loyal Customer
+898,7037,50.0,15.0,304.0,3,3,3,9,Loyal Customer
+899,905,62.0,8.0,79.0,2,2,2,6,Potential Loyalists Customer
+900,8624,39.0,18.0,578.0,3,3,3,9,Loyal Customer
+901,8945,54.0,10.0,177.0,2,2,2,6,Potential Loyalists Customer
+902,6445,27.0,16.0,540.0,3,3,3,9,Loyal Customer
+903,2727,81.0,13.0,309.0,1,2,3,6,Potential Loyalists Customer
+904,6404,90.0,12.0,230.0,1,2,2,5,New Customer
+905,11074,6.0,18.0,827.0,4,3,4,11,Loyal Customer
+906,10150,90.0,19.0,838.0,1,3,4,8,Loyal Customer
+907,1968,63.0,4.0,23.0,2,1,1,4,New Customer
+908,6534,6.0,6.0,62.0,4,1,1,6,Potential Loyalists Customer
+909,9485,77.0,10.0,175.0,1,2,2,5,New Customer
+910,7053,25.0,22.0,839.0,4,4,4,12,Loyal Customer
+911,4654,60.0,19.0,760.0,2,3,4,9,Loyal Customer
+912,9760,76.0,26.0,736.0,2,4,4,10,Loyal Customer
+913,1048,89.0,9.0,159.0,1,2,2,5,New Customer
+914,10619,71.0,18.0,1002.0,2,3,4,9,Loyal Customer
+915,9308,49.0,14.0,606.0,3,3,3,9,Loyal Customer
+916,10505,14.0,15.0,618.0,4,3,3,10,Loyal Customer
+918,2625,70.0,13.0,273.0,2,2,2,6,Potential Loyalists Customer
+919,4637,27.0,25.0,912.0,3,4,4,11,Loyal Customer
+920,9972,75.0,5.0,41.0,2,1,1,4,New Customer
+921,4483,33.0,19.0,747.0,3,3,4,10,Loyal Customer
+922,4487,33.0,7.0,90.0,3,1,2,6,Potential Loyalists Customer
+923,4988,42.0,7.0,57.0,3,1,1,5,New Customer
+924,8931,18.0,26.0,951.0,4,4,4,12,Loyal Customer
+925,5871,2.0,14.0,347.0,4,3,3,10,Loyal Customer
+926,2008,7.0,19.0,704.0,4,3,4,11,Loyal Customer
+927,3139,47.0,19.0,1012.0,3,3,4,10,Loyal Customer
+929,10673,94.0,21.0,826.0,1,4,4,9,Loyal Customer
+930,5303,58.0,20.0,684.0,2,4,4,10,Loyal Customer
+931,538,22.0,7.0,113.0,4,1,2,7,Potential Loyalists Customer
+932,7922,71.0,24.0,598.0,2,4,3,9,Loyal Customer
+933,5692,18.0,5.0,27.0,4,1,1,6,Potential Loyalists Customer
+935,6383,22.0,7.0,41.0,4,1,1,6,Potential Loyalists Customer
+936,1628,46.0,17.0,593.0,3,3,3,9,Loyal Customer
+937,1204,55.0,28.0,972.0,2,4,4,10,Loyal Customer
+938,3673,41.0,24.0,503.0,3,4,3,10,Loyal Customer
+939,760,92.0,22.0,517.0,1,4,3,8,Loyal Customer
+940,8957,49.0,15.0,687.0,3,3,4,10,Loyal Customer
+941,4128,49.0,19.0,471.0,3,3,3,9,Loyal Customer
+942,6810,24.0,12.0,727.0,4,2,4,10,Loyal Customer
+943,5386,38.0,19.0,1040.0,3,3,4,10,Loyal Customer
+944,8700,14.0,7.0,61.0,4,1,1,6,Potential Loyalists Customer
+945,3202,40.0,19.0,759.0,3,3,4,10,Loyal Customer
+946,1328,44.0,18.0,452.0,3,3,3,9,Loyal Customer
+947,8405,17.0,12.0,246.0,4,2,2,8,Loyal Customer
+948,6515,8.0,6.0,45.0,4,1,1,6,Potential Loyalists Customer
+949,2882,69.0,15.0,616.0,2,3,3,8,Loyal Customer
+950,7574,20.0,6.0,36.0,4,1,1,6,Potential Loyalists Customer
+951,6387,61.0,7.0,72.0,2,1,2,5,New Customer
+952,5320,80.0,9.0,152.0,1,2,2,5,New Customer
+953,5048,47.0,7.0,119.0,3,1,2,6,Potential Loyalists Customer
+954,8146,16.0,5.0,49.0,4,1,1,6,Potential Loyalists Customer
+955,10031,50.0,8.0,48.0,3,2,1,6,Potential Loyalists Customer
+956,5748,4.0,14.0,351.0,4,3,3,10,Loyal Customer
+957,2134,6.0,19.0,461.0,4,3,3,10,Loyal Customer
+958,1523,75.0,7.0,91.0,2,1,2,5,New Customer
+959,9665,52.0,13.0,280.0,2,2,2,6,Potential Loyalists Customer
+960,4640,35.0,25.0,662.0,3,4,4,11,Loyal Customer
+961,3635,31.0,18.0,405.0,3,3,3,9,Loyal Customer
+962,3547,88.0,6.0,59.0,1,1,1,3,Potential Lost Customer
+963,2456,16.0,9.0,135.0,4,2,2,8,Loyal Customer
+964,5633,53.0,11.0,194.0,2,2,2,6,Potential Loyalists Customer
+965,7801,13.0,19.0,474.0,4,3,3,10,Loyal Customer
+966,10489,65.0,23.0,954.0,2,4,4,10,Loyal Customer
+967,7011,53.0,8.0,88.0,2,2,2,6,Potential Loyalists Customer
+968,2620,52.0,4.0,18.0,2,1,1,4,New Customer
+969,3933,54.0,19.0,444.0,2,3,3,8,Loyal Customer
+970,10981,73.0,18.0,736.0,2,3,4,9,Loyal Customer
+971,1734,63.0,8.0,76.0,2,2,2,6,Potential Loyalists Customer
+972,10995,92.0,8.0,87.0,1,2,2,5,New Customer
+973,6357,71.0,16.0,359.0,2,3,3,8,Loyal Customer
+974,9209,15.0,24.0,880.0,4,4,4,12,Loyal Customer
+975,10286,98.0,24.0,577.0,1,4,3,8,Loyal Customer
+976,2611,34.0,19.0,987.0,3,3,4,10,Loyal Customer
+978,3308,46.0,7.0,89.0,3,1,2,6,Potential Loyalists Customer
+979,5407,30.0,24.0,666.0,3,4,4,11,Loyal Customer
+980,2166,45.0,4.0,18.0,3,1,1,5,New Customer
+981,3955,80.0,1.0,2.0,1,1,1,3,Potential Lost Customer
+982,6634,22.0,6.0,49.0,4,1,1,6,Potential Loyalists Customer
+984,5718,83.0,23.0,825.0,1,4,4,9,Loyal Customer
+985,6872,57.0,15.0,306.0,2,3,3,8,Loyal Customer
+986,8164,87.0,19.0,986.0,1,3,4,8,Loyal Customer
+987,4580,54.0,26.0,1045.0,2,4,4,10,Loyal Customer
+988,9305,35.0,27.0,785.0,3,4,4,11,Loyal Customer
+989,453,99.0,6.0,40.0,1,1,1,3,Potential Lost Customer
+990,8545,94.0,17.0,957.0,1,3,4,8,Loyal Customer
+991,9850,68.0,4.0,14.0,2,1,1,4,New Customer
+992,7378,66.0,18.0,400.0,2,3,3,8,Loyal Customer
+993,7646,30.0,21.0,515.0,3,4,3,10,Loyal Customer
+994,1640,51.0,7.0,101.0,3,1,2,6,Potential Loyalists Customer
+996,8492,75.0,23.0,855.0,2,4,4,10,Loyal Customer
+998,1212,93.0,23.0,582.0,1,4,3,8,Loyal Customer
+999,9097,66.0,13.0,270.0,2,2,2,6,Potential Loyalists Customer
+1000,10473,62.0,20.0,380.0,2,4,3,9,Loyal Customer
+1001,7962,99.0,12.0,984.0,1,2,4,7,Potential Loyalists Customer
+1002,9984,75.0,18.0,470.0,2,3,3,8,Loyal Customer
+1003,5527,75.0,6.0,53.0,2,1,1,4,New Customer
+1004,6374,50.0,12.0,240.0,3,2,2,7,Potential Loyalists Customer
+1005,7453,54.0,16.0,357.0,2,3,3,8,Loyal Customer
+1006,8952,4.0,22.0,541.0,4,4,3,11,Loyal Customer
+1008,8975,53.0,7.0,64.0,2,1,1,4,New Customer
+1009,6119,48.0,4.0,12.0,3,1,1,5,New Customer
+1010,5236,70.0,21.0,1031.0,2,4,4,10,Loyal Customer
+1011,5723,37.0,8.0,106.0,3,2,2,7,Potential Loyalists Customer
+1012,1710,49.0,12.0,229.0,3,2,2,7,Potential Loyalists Customer
+1013,1970,86.0,7.0,98.0,1,1,2,4,New Customer
+1014,5313,80.0,7.0,39.0,1,1,1,3,Potential Lost Customer
+1015,10634,44.0,15.0,307.0,3,3,3,9,Loyal Customer
+1016,7010,59.0,20.0,799.0,2,4,4,10,Loyal Customer
+1017,8562,28.0,11.0,198.0,3,2,2,7,Potential Loyalists Customer
+1018,3158,99.0,5.0,34.0,1,1,1,3,Potential Lost Customer
+1019,4436,73.0,8.0,124.0,2,2,2,6,Potential Loyalists Customer
+1020,5287,23.0,8.0,74.0,4,2,2,8,Loyal Customer
+1021,2445,13.0,6.0,58.0,4,1,1,6,Potential Loyalists Customer
+1022,6059,19.0,19.0,784.0,4,3,4,11,Loyal Customer
+1023,4550,49.0,6.0,66.0,3,1,2,6,Potential Loyalists Customer
+1024,4240,21.0,6.0,53.0,4,1,1,6,Potential Loyalists Customer
+1025,8911,89.0,19.0,462.0,1,3,3,7,Potential Loyalists Customer
+1026,3706,46.0,7.0,89.0,3,1,2,6,Potential Loyalists Customer
+1027,3628,7.0,6.0,75.0,4,1,2,7,Potential Loyalists Customer
+1028,10175,100.0,5.0,17.0,1,1,1,3,Potential Lost Customer
+1029,8985,46.0,28.0,740.0,3,4,4,11,Loyal Customer
+1030,5204,79.0,22.0,843.0,1,4,4,9,Loyal Customer
+1031,9220,42.0,20.0,1001.0,3,4,4,11,Loyal Customer
+1032,9888,97.0,16.0,670.0,1,3,4,8,Loyal Customer
+1033,5263,1.0,5.0,50.0,4,1,1,6,Potential Loyalists Customer
+1035,9503,35.0,12.0,252.0,3,2,2,7,Potential Loyalists Customer
+1036,10613,56.0,8.0,57.0,2,2,1,5,New Customer
+1037,67,94.0,7.0,87.0,1,1,2,4,New Customer
+1038,6019,91.0,6.0,67.0,1,1,2,4,New Customer
+1039,5863,5.0,18.0,440.0,4,3,3,10,Loyal Customer
+1040,3717,30.0,17.0,463.0,3,3,3,9,Loyal Customer
+1041,6730,8.0,6.0,49.0,4,1,1,6,Potential Loyalists Customer
+1042,10749,38.0,2.0,159.0,3,1,2,6,Potential Loyalists Customer
+1043,4998,15.0,14.0,636.0,4,3,3,10,Loyal Customer
+1044,6287,98.0,5.0,31.0,1,1,1,3,Potential Lost Customer
+1045,5985,100.0,8.0,111.0,1,2,2,5,New Customer
+1046,4754,9.0,7.0,111.0,4,1,2,7,Potential Loyalists Customer
+1047,4002,97.0,27.0,689.0,1,4,4,9,Loyal Customer
+1048,8870,32.0,13.0,365.0,3,2,3,8,Loyal Customer
+1049,966,2.0,20.0,458.0,4,4,3,11,Loyal Customer
+1051,9725,84.0,4.0,7.0,1,1,1,3,Potential Lost Customer
+1052,4475,18.0,25.0,1044.0,4,4,4,12,Loyal Customer
+1053,5740,99.0,6.0,51.0,1,1,1,3,Potential Lost Customer
+1054,5731,36.0,5.0,32.0,3,1,1,5,New Customer
+1055,7290,32.0,21.0,600.0,3,4,3,10,Loyal Customer
+1056,3846,2.0,12.0,221.0,4,2,2,8,Loyal Customer
+1057,8104,68.0,12.0,228.0,2,2,2,6,Potential Loyalists Customer
+1058,4507,13.0,22.0,759.0,4,4,4,12,Loyal Customer
+1059,11013,16.0,17.0,584.0,4,3,3,10,Loyal Customer
+1060,4491,97.0,18.0,722.0,1,3,4,8,Loyal Customer
+1061,3759,66.0,25.0,708.0,2,4,4,10,Loyal Customer
+1062,1162,77.0,19.0,438.0,1,3,3,7,Potential Loyalists Customer
+1063,2055,63.0,5.0,44.0,2,1,1,4,New Customer
+1064,10766,78.0,17.0,370.0,1,3,3,7,Potential Loyalists Customer
+1065,4415,81.0,6.0,33.0,1,1,1,3,Potential Lost Customer
+1066,3005,93.0,23.0,912.0,1,4,4,9,Loyal Customer
+1067,2223,48.0,26.0,970.0,3,4,4,11,Loyal Customer
+1068,4817,9.0,4.0,13.0,4,1,1,6,Potential Loyalists Customer
+1069,2875,7.0,24.0,566.0,4,4,3,11,Loyal Customer
+1071,11112,77.0,20.0,848.0,1,4,4,9,Loyal Customer
+1072,3807,17.0,21.0,494.0,4,4,3,11,Loyal Customer
+1073,9197,8.0,6.0,42.0,4,1,1,6,Potential Loyalists Customer
+1074,10832,96.0,14.0,347.0,1,3,3,7,Potential Loyalists Customer
+1075,6421,68.0,21.0,1025.0,2,4,4,10,Loyal Customer
+1076,4207,73.0,25.0,780.0,2,4,4,10,Loyal Customer
+1077,577,90.0,5.0,17.0,1,1,1,3,Potential Lost Customer
+1078,10855,91.0,14.0,300.0,1,3,2,6,Potential Loyalists Customer
+1079,3081,35.0,4.0,15.0,3,1,1,5,New Customer
+1080,3535,32.0,13.0,599.0,3,2,3,8,Loyal Customer
+1081,247,84.0,14.0,277.0,1,3,2,6,Potential Loyalists Customer
+1082,8707,88.0,16.0,823.0,1,3,4,8,Loyal Customer
+1083,9523,5.0,4.0,10.0,4,1,1,6,Potential Loyalists Customer
+1084,6072,84.0,20.0,1019.0,1,4,4,9,Loyal Customer
+1085,6295,54.0,23.0,608.0,2,4,3,9,Loyal Customer
+1086,10914,97.0,5.0,12.0,1,1,1,3,Potential Lost Customer
+1087,1509,20.0,23.0,376.0,4,4,3,11,Loyal Customer
+1088,5577,23.0,4.0,18.0,4,1,1,6,Potential Loyalists Customer
+1089,7348,100.0,17.0,732.0,1,3,4,8,Loyal Customer
+1090,1127,38.0,20.0,1000.0,3,4,4,11,Loyal Customer
+1091,1833,9.0,8.0,121.0,4,2,2,8,Loyal Customer
+1093,9080,98.0,7.0,68.0,1,1,2,4,New Customer
+1094,6466,78.0,8.0,110.0,1,2,2,5,New Customer
+1095,9964,44.0,15.0,320.0,3,3,3,9,Loyal Customer
+1096,4790,46.0,13.0,545.0,3,2,3,8,Loyal Customer
+1097,10245,29.0,15.0,488.0,3,3,3,9,Loyal Customer
+1098,1109,62.0,4.0,7.0,2,1,1,4,New Customer
+1099,6001,38.0,24.0,583.0,3,4,3,10,Loyal Customer
+1100,5538,22.0,18.0,976.0,4,3,4,11,Loyal Customer
+1101,10552,82.0,13.0,284.0,1,2,2,5,New Customer
+1102,1545,5.0,15.0,333.0,4,3,3,10,Loyal Customer
+1103,7409,34.0,12.0,218.0,3,2,2,7,Potential Loyalists Customer
+1104,4444,72.0,6.0,56.0,2,1,1,4,New Customer
+1105,146,22.0,21.0,788.0,4,4,4,12,Loyal Customer
+1106,6271,87.0,6.0,58.0,1,1,1,3,Potential Lost Customer
+1108,4741,83.0,18.0,395.0,1,3,3,7,Potential Loyalists Customer
+1109,246,29.0,13.0,251.0,3,2,2,7,Potential Loyalists Customer
+1110,375,21.0,16.0,709.0,4,3,4,11,Loyal Customer
+1111,1524,99.0,16.0,679.0,1,3,4,8,Loyal Customer
+1112,10022,22.0,4.0,11.0,4,1,1,6,Potential Loyalists Customer
+1114,11010,25.0,7.0,39.0,4,1,1,6,Potential Loyalists Customer
+1115,4356,30.0,12.0,885.0,3,2,4,9,Loyal Customer
+1116,3885,90.0,5.0,58.0,1,1,1,3,Potential Lost Customer
+1117,1175,76.0,12.0,322.0,2,2,3,7,Potential Loyalists Customer
+1118,880,53.0,6.0,91.0,2,1,2,5,New Customer
+1119,2320,2.0,19.0,431.0,4,3,3,10,Loyal Customer
+1120,850,96.0,21.0,489.0,1,4,3,8,Loyal Customer
+1121,4713,85.0,8.0,113.0,1,2,2,5,New Customer
+1122,675,33.0,12.0,265.0,3,2,2,7,Potential Loyalists Customer
+1123,5025,68.0,8.0,123.0,2,2,2,6,Potential Loyalists Customer
+1124,2308,60.0,13.0,263.0,2,2,2,6,Potential Loyalists Customer
+1125,5995,46.0,14.0,293.0,3,3,2,8,Loyal Customer
+1126,6749,22.0,15.0,938.0,4,3,4,11,Loyal Customer
+1127,1010,6.0,6.0,73.0,4,1,2,7,Potential Loyalists Customer
+1128,8977,49.0,4.0,19.0,3,1,1,5,New Customer
+1129,4756,58.0,25.0,716.0,2,4,4,10,Loyal Customer
+1130,3412,33.0,14.0,592.0,3,3,3,9,Loyal Customer
+1131,606,13.0,4.0,10.0,4,1,1,6,Potential Loyalists Customer
+1132,5961,71.0,5.0,52.0,2,1,1,4,New Customer
+1133,2975,11.0,23.0,998.0,4,4,4,12,Loyal Customer
+1134,2894,26.0,21.0,1007.0,4,4,4,12,Loyal Customer
+1135,7613,3.0,13.0,262.0,4,2,2,8,Loyal Customer
+1136,10542,37.0,7.0,72.0,3,1,2,6,Potential Loyalists Customer
+1137,8015,12.0,20.0,783.0,4,4,4,12,Loyal Customer
+1139,11166,19.0,13.0,253.0,4,2,2,8,Loyal Customer
+1141,523,49.0,7.0,69.0,3,1,2,6,Potential Loyalists Customer
+1142,4066,24.0,6.0,41.0,4,1,1,6,Potential Loyalists Customer
+1143,8414,24.0,7.0,81.0,4,1,2,7,Potential Loyalists Customer
+1144,819,16.0,25.0,678.0,4,4,4,12,Loyal Customer
+1145,4961,44.0,8.0,56.0,3,2,1,6,Potential Loyalists Customer
+1146,749,69.0,8.0,131.0,2,2,2,6,Potential Loyalists Customer
+1147,5430,100.0,20.0,453.0,1,4,3,8,Loyal Customer
+1148,7755,9.0,15.0,311.0,4,3,3,10,Loyal Customer
+1149,10525,60.0,4.0,22.0,2,1,1,4,New Customer
+1150,1453,41.0,26.0,650.0,3,4,4,11,Loyal Customer
+1151,8310,4.0,22.0,842.0,4,4,4,12,Loyal Customer
+1152,10710,39.0,4.0,13.0,3,1,1,5,New Customer
+1153,5031,86.0,26.0,973.0,1,4,4,9,Loyal Customer
+1154,2613,84.0,11.0,199.0,1,2,2,5,New Customer
+1155,213,2.0,7.0,43.0,4,1,1,6,Potential Loyalists Customer
+1156,967,89.0,17.0,372.0,1,3,3,7,Potential Loyalists Customer
+1157,1077,48.0,15.0,629.0,3,3,3,9,Loyal Customer
+1158,7959,81.0,11.0,804.0,1,2,4,7,Potential Loyalists Customer
+1159,640,39.0,24.0,632.0,3,4,3,10,Loyal Customer
+1160,4252,27.0,12.0,243.0,3,2,2,7,Potential Loyalists Customer
+1162,6218,26.0,17.0,366.0,4,3,3,10,Loyal Customer
+1163,6905,45.0,21.0,620.0,3,4,3,10,Loyal Customer
+1164,5922,52.0,11.0,186.0,2,2,2,6,Potential Loyalists Customer
+1165,3598,47.0,19.0,418.0,3,3,3,9,Loyal Customer
+1166,6116,87.0,6.0,70.0,1,1,2,4,New Customer
+1167,6263,66.0,7.0,99.0,2,1,2,5,New Customer
+1168,10486,46.0,17.0,613.0,3,3,3,9,Loyal Customer
+1169,2410,31.0,16.0,674.0,3,3,4,10,Loyal Customer
+1172,8278,97.0,16.0,936.0,1,3,4,8,Loyal Customer
+1173,10660,39.0,15.0,330.0,3,3,3,9,Loyal Customer
+1174,8686,35.0,6.0,70.0,3,1,2,6,Potential Loyalists Customer
+1175,1604,7.0,11.0,192.0,4,2,2,8,Loyal Customer
+1176,5907,76.0,4.0,13.0,2,1,1,4,New Customer
+1177,10669,92.0,16.0,349.0,1,3,3,7,Potential Loyalists Customer
+1178,2918,28.0,7.0,86.0,3,1,2,6,Potential Loyalists Customer
+1179,5735,71.0,18.0,1047.0,2,3,4,9,Loyal Customer
+1180,359,67.0,17.0,369.0,2,3,3,8,Loyal Customer
+1181,8387,32.0,11.0,197.0,3,2,2,7,Potential Loyalists Customer
+1182,1829,45.0,19.0,751.0,3,3,4,10,Loyal Customer
+1183,3839,24.0,8.0,83.0,4,2,2,8,Loyal Customer
+1184,9392,83.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+1185,2292,6.0,5.0,19.0,4,1,1,6,Potential Loyalists Customer
+1186,10466,14.0,6.0,55.0,4,1,1,6,Potential Loyalists Customer
+1187,9855,75.0,26.0,629.0,2,4,3,9,Loyal Customer
+1188,4088,78.0,9.0,139.0,1,2,2,5,New Customer
+1189,5231,85.0,5.0,46.0,1,1,1,3,Potential Lost Customer
+1190,590,65.0,16.0,964.0,2,3,4,9,Loyal Customer
+1191,8732,19.0,22.0,843.0,4,4,4,12,Loyal Customer
+1192,2315,45.0,6.0,91.0,3,1,2,6,Potential Loyalists Customer
+1193,3515,6.0,9.0,144.0,4,2,2,8,Loyal Customer
+1194,2245,50.0,8.0,126.0,3,2,2,7,Potential Loyalists Customer
+1197,6606,89.0,18.0,713.0,1,3,4,8,Loyal Customer
+1198,5545,28.0,14.0,611.0,3,3,3,9,Loyal Customer
+1199,7342,94.0,25.0,658.0,1,4,4,9,Loyal Customer
+1200,837,100.0,9.0,155.0,1,2,2,5,New Customer
+1201,9500,34.0,20.0,490.0,3,4,3,10,Loyal Customer
+1202,3602,58.0,10.0,173.0,2,2,2,6,Potential Loyalists Customer
+1204,2995,36.0,17.0,665.0,3,3,4,10,Loyal Customer
+1205,1118,13.0,20.0,454.0,4,4,3,11,Loyal Customer
+1207,3068,99.0,6.0,38.0,1,1,1,3,Potential Lost Customer
+1208,8955,46.0,5.0,44.0,3,1,1,5,New Customer
+1209,945,47.0,8.0,121.0,3,2,2,7,Potential Loyalists Customer
+1210,5644,4.0,14.0,282.0,4,3,2,9,Loyal Customer
+1211,7192,42.0,17.0,388.0,3,3,3,9,Loyal Customer
+1212,2324,88.0,30.0,653.0,1,4,4,9,Loyal Customer
+1213,697,22.0,21.0,1011.0,4,4,4,12,Loyal Customer
+1214,3439,36.0,11.0,239.0,3,2,2,7,Potential Loyalists Customer
+1215,1506,74.0,8.0,127.0,2,2,2,6,Potential Loyalists Customer
+1216,232,92.0,17.0,382.0,1,3,3,7,Potential Loyalists Customer
+1217,8876,51.0,9.0,137.0,3,2,2,7,Potential Loyalists Customer
+1219,9739,45.0,7.0,104.0,3,1,2,6,Potential Loyalists Customer
+1220,10395,75.0,8.0,96.0,2,2,2,6,Potential Loyalists Customer
+1221,1176,50.0,4.0,20.0,3,1,1,5,New Customer
+1222,1627,16.0,22.0,505.0,4,4,3,11,Loyal Customer
+1223,938,70.0,6.0,82.0,2,1,2,5,New Customer
+1224,2740,19.0,8.0,85.0,4,2,2,8,Loyal Customer
+1225,257,26.0,19.0,742.0,4,3,4,11,Loyal Customer
+1226,4058,24.0,22.0,517.0,4,4,3,11,Loyal Customer
+1227,7736,64.0,6.0,56.0,2,1,1,4,New Customer
+1228,8210,36.0,14.0,306.0,3,3,3,9,Loyal Customer
+1229,833,38.0,7.0,67.0,3,1,2,6,Potential Loyalists Customer
+1230,6230,47.0,10.0,168.0,3,2,2,7,Potential Loyalists Customer
+1231,7325,14.0,5.0,35.0,4,1,1,6,Potential Loyalists Customer
+1232,1307,85.0,8.0,58.0,1,2,1,4,New Customer
+1233,1502,33.0,6.0,47.0,3,1,1,5,New Customer
+1234,6211,53.0,5.0,34.0,2,1,1,4,New Customer
+1235,843,53.0,22.0,515.0,2,4,3,9,Loyal Customer
+1236,4174,19.0,8.0,118.0,4,2,2,8,Loyal Customer
+1237,9757,2.0,24.0,906.0,4,4,4,12,Loyal Customer
+1239,286,52.0,9.0,137.0,2,2,2,6,Potential Loyalists Customer
+1240,11086,82.0,5.0,16.0,1,1,1,3,Potential Lost Customer
+1241,1921,26.0,6.0,66.0,4,1,2,7,Potential Loyalists Customer
+1242,4138,32.0,23.0,560.0,3,4,3,10,Loyal Customer
+1243,7718,64.0,10.0,466.0,2,2,3,7,Potential Loyalists Customer
+1244,1291,10.0,13.0,274.0,4,2,2,8,Loyal Customer
+1245,6862,35.0,1.0,3.0,3,1,1,5,New Customer
+1246,4136,37.0,8.0,108.0,3,2,2,7,Potential Loyalists Customer
+1247,803,18.0,4.0,16.0,4,1,1,6,Potential Loyalists Customer
+1248,4298,37.0,4.0,5.0,3,1,1,5,New Customer
+1249,10833,45.0,25.0,604.0,3,4,3,10,Loyal Customer
+1250,9606,36.0,13.0,874.0,3,2,4,9,Loyal Customer
+1251,8534,49.0,25.0,614.0,3,4,3,10,Loyal Customer
+1252,5153,3.0,33.0,871.0,4,4,4,12,Loyal Customer
+1253,961,8.0,16.0,542.0,4,3,3,10,Loyal Customer
+1255,6653,28.0,15.0,317.0,3,3,3,9,Loyal Customer
+1256,9094,61.0,15.0,408.0,2,3,3,8,Loyal Customer
+1257,810,51.0,18.0,436.0,3,3,3,9,Loyal Customer
+1258,5493,79.0,4.0,18.0,1,1,1,3,Potential Lost Customer
+1259,2147,9.0,23.0,1038.0,4,4,4,12,Loyal Customer
+1261,3979,2.0,17.0,955.0,4,3,4,11,Loyal Customer
+1262,6049,15.0,27.0,962.0,4,4,4,12,Loyal Customer
+1263,8147,60.0,6.0,43.0,2,1,1,4,New Customer
+1264,1857,98.0,6.0,78.0,1,1,2,4,New Customer
+1266,5207,59.0,20.0,507.0,2,4,3,9,Loyal Customer
+1267,11114,6.0,7.0,79.0,4,1,2,7,Potential Loyalists Customer
+1268,5429,90.0,10.0,162.0,1,2,2,5,New Customer
+1269,9400,27.0,19.0,815.0,3,3,4,10,Loyal Customer
+1270,1740,78.0,15.0,617.0,1,3,3,7,Potential Loyalists Customer
+1271,7488,70.0,22.0,526.0,2,4,3,9,Loyal Customer
+1272,195,79.0,11.0,204.0,1,2,2,5,New Customer
+1273,635,49.0,18.0,420.0,3,3,3,9,Loyal Customer
+1274,7527,3.0,7.0,71.0,4,1,2,7,Potential Loyalists Customer
+1275,10319,44.0,19.0,774.0,3,3,4,10,Loyal Customer
+1276,2296,96.0,4.0,25.0,1,1,1,3,Potential Lost Customer
+1277,10637,23.0,7.0,94.0,4,1,2,7,Potential Loyalists Customer
+1278,2931,5.0,23.0,732.0,4,4,4,12,Loyal Customer
+1279,907,64.0,14.0,281.0,2,3,2,7,Potential Loyalists Customer
+1280,3698,87.0,19.0,1028.0,1,3,4,8,Loyal Customer
+1281,9516,10.0,27.0,748.0,4,4,4,12,Loyal Customer
+1282,679,51.0,5.0,33.0,3,1,1,5,New Customer
+1283,7384,82.0,16.0,355.0,1,3,3,7,Potential Loyalists Customer
+1284,5043,11.0,12.0,327.0,4,2,3,9,Loyal Customer
+1285,5267,57.0,5.0,39.0,2,1,1,4,New Customer
+1286,339,18.0,17.0,364.0,4,3,3,10,Loyal Customer
+1287,2516,16.0,6.0,73.0,4,1,2,7,Potential Loyalists Customer
+1288,9010,20.0,23.0,1041.0,4,4,4,12,Loyal Customer
+1289,378,32.0,20.0,508.0,3,4,3,10,Loyal Customer
+1290,4808,88.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+1292,7628,90.0,7.0,71.0,1,1,2,4,New Customer
+1293,7128,9.0,4.0,10.0,4,1,1,6,Potential Loyalists Customer
+1294,2811,79.0,6.0,57.0,1,1,1,3,Potential Lost Customer
+1295,3551,72.0,9.0,174.0,2,2,2,6,Potential Loyalists Customer
+1296,1663,3.0,5.0,44.0,4,1,1,6,Potential Loyalists Customer
+1297,5543,51.0,21.0,514.0,3,4,3,10,Loyal Customer
+1298,1577,86.0,15.0,944.0,1,3,4,8,Loyal Customer
+1299,10641,95.0,7.0,52.0,1,1,1,3,Potential Lost Customer
+1300,5336,63.0,3.0,54.0,2,1,1,4,New Customer
+1302,1878,17.0,6.0,32.0,4,1,1,6,Potential Loyalists Customer
+1303,3099,52.0,12.0,249.0,2,2,2,6,Potential Loyalists Customer
+1304,6055,6.0,19.0,781.0,4,3,4,11,Loyal Customer
+1305,5841,39.0,22.0,527.0,3,4,3,10,Loyal Customer
+1306,3972,30.0,14.0,304.0,3,3,3,9,Loyal Customer
+1307,4394,57.0,23.0,858.0,2,4,4,10,Loyal Customer
+1308,5758,77.0,28.0,729.0,1,4,4,9,Loyal Customer
+1309,6658,63.0,26.0,734.0,2,4,4,10,Loyal Customer
+1310,4603,50.0,20.0,441.0,3,4,3,10,Loyal Customer
+1311,8427,22.0,23.0,876.0,4,4,4,12,Loyal Customer
+1312,10260,26.0,13.0,250.0,4,2,2,8,Loyal Customer
+1313,7143,86.0,22.0,524.0,1,4,3,8,Loyal Customer
+1314,8789,23.0,12.0,225.0,4,2,2,8,Loyal Customer
+1315,6197,61.0,7.0,52.0,2,1,1,4,New Customer
+1316,4554,11.0,14.0,337.0,4,3,3,10,Loyal Customer
+1317,4937,38.0,5.0,39.0,3,1,1,5,New Customer
+1319,8749,32.0,5.0,56.0,3,1,1,5,New Customer
+1320,1650,87.0,27.0,910.0,1,4,4,9,Loyal Customer
+1321,10377,63.0,13.0,301.0,2,2,2,6,Potential Loyalists Customer
+1322,9206,64.0,25.0,688.0,2,4,4,10,Loyal Customer
+1323,10971,72.0,13.0,350.0,2,2,3,7,Potential Loyalists Customer
+1324,6398,98.0,7.0,45.0,1,1,1,3,Potential Lost Customer
+1325,9212,83.0,23.0,923.0,1,4,4,9,Loyal Customer
+1326,7937,14.0,7.0,53.0,4,1,1,6,Potential Loyalists Customer
+1327,839,46.0,9.0,151.0,3,2,2,7,Potential Loyalists Customer
+1328,4246,98.0,3.0,289.0,1,1,2,4,New Customer
+1329,158,97.0,17.0,735.0,1,3,4,8,Loyal Customer
+1330,4832,16.0,7.0,96.0,4,1,2,7,Potential Loyalists Customer
+1331,5621,92.0,13.0,254.0,1,2,2,5,New Customer
+1332,1945,96.0,19.0,822.0,1,3,4,8,Loyal Customer
+1333,5147,43.0,27.0,828.0,3,4,4,11,Loyal Customer
+1334,2535,76.0,20.0,535.0,2,4,3,9,Loyal Customer
+1335,11039,49.0,12.0,250.0,3,2,2,7,Potential Loyalists Customer
+1336,9495,71.0,17.0,704.0,2,3,4,9,Loyal Customer
+1337,9635,87.0,8.0,117.0,1,2,2,5,New Customer
+1338,2173,77.0,5.0,27.0,1,1,1,3,Potential Lost Customer
+1339,942,64.0,12.0,241.0,2,2,2,6,Potential Loyalists Customer
+1340,9386,12.0,13.0,258.0,4,2,2,8,Loyal Customer
+1341,5510,98.0,14.0,331.0,1,3,3,7,Potential Loyalists Customer
+1342,873,97.0,18.0,722.0,1,3,4,8,Loyal Customer
+1343,2253,85.0,6.0,80.0,1,1,2,4,New Customer
+1344,5181,42.0,4.0,19.0,3,1,1,5,New Customer
+1346,10390,73.0,5.0,25.0,2,1,1,4,New Customer
+1348,7793,88.0,22.0,512.0,1,4,3,8,Loyal Customer
+1350,10590,9.0,23.0,852.0,4,4,4,12,Loyal Customer
+1351,5080,88.0,17.0,761.0,1,3,4,8,Loyal Customer
+1352,8369,79.0,4.0,23.0,1,1,1,3,Potential Lost Customer
+1353,5232,77.0,11.0,193.0,1,2,2,5,New Customer
+1354,2407,90.0,20.0,878.0,1,4,4,9,Loyal Customer
+1355,3834,65.0,22.0,543.0,2,4,3,9,Loyal Customer
+1356,7912,31.0,7.0,98.0,3,1,2,6,Potential Loyalists Customer
+1357,7712,32.0,19.0,430.0,3,3,3,9,Loyal Customer
+1358,1065,15.0,19.0,988.0,4,3,4,11,Loyal Customer
+1359,7275,66.0,8.0,119.0,2,2,2,6,Potential Loyalists Customer
+1360,1343,45.0,17.0,407.0,3,3,3,9,Loyal Customer
+1361,1384,90.0,6.0,57.0,1,1,1,3,Potential Lost Customer
+1362,9967,70.0,15.0,336.0,2,3,3,8,Loyal Customer
+1363,6181,64.0,27.0,585.0,2,4,3,9,Loyal Customer
+1364,10507,86.0,12.0,510.0,1,2,3,6,Potential Loyalists Customer
+1365,2674,21.0,16.0,700.0,4,3,4,11,Loyal Customer
+1366,2698,48.0,15.0,314.0,3,3,3,9,Loyal Customer
+1367,3231,3.0,5.0,25.0,4,1,1,6,Potential Loyalists Customer
+1369,10476,100.0,11.0,205.0,1,2,2,5,New Customer
+1370,5948,4.0,11.0,199.0,4,2,2,8,Loyal Customer
+1371,9140,11.0,7.0,86.0,4,1,2,7,Potential Loyalists Customer
+1373,5675,2.0,17.0,361.0,4,3,3,10,Loyal Customer
+1374,4743,28.0,24.0,602.0,3,4,3,10,Loyal Customer
+1375,8805,99.0,14.0,287.0,1,3,2,6,Potential Loyalists Customer
+1376,1542,74.0,15.0,300.0,2,3,2,7,Potential Loyalists Customer
+1377,6770,95.0,6.0,63.0,1,1,1,3,Potential Lost Customer
+1378,8773,78.0,13.0,259.0,1,2,2,5,New Customer
+1380,10420,44.0,10.0,189.0,3,2,2,7,Potential Loyalists Customer
+1381,7514,26.0,9.0,158.0,4,2,2,8,Loyal Customer
+1384,793,76.0,6.0,40.0,2,1,1,4,New Customer
+1385,10909,91.0,21.0,983.0,1,4,4,9,Loyal Customer
+1388,4791,65.0,5.0,36.0,2,1,1,4,New Customer
+1390,8216,93.0,12.0,261.0,1,2,2,5,New Customer
+1391,8140,49.0,8.0,90.0,3,2,2,7,Potential Loyalists Customer
+1392,10146,83.0,5.0,37.0,1,1,1,3,Potential Lost Customer
+1393,5289,70.0,5.0,67.0,2,1,2,5,New Customer
+1394,2587,79.0,6.0,15.0,1,1,1,3,Potential Lost Customer
+1395,4405,98.0,22.0,505.0,1,4,3,8,Loyal Customer
+1396,8663,15.0,4.0,10.0,4,1,1,6,Potential Loyalists Customer
+1397,2589,35.0,7.0,54.0,3,1,1,5,New Customer
+1399,10490,89.0,13.0,316.0,1,2,3,6,Potential Loyalists Customer
+1400,4094,8.0,12.0,234.0,4,2,2,8,Loyal Customer
+1402,2534,96.0,9.0,167.0,1,2,2,5,New Customer
+1403,4188,47.0,12.0,276.0,3,2,2,7,Potential Loyalists Customer
+1404,6613,61.0,21.0,473.0,2,4,3,9,Loyal Customer
+1405,10827,51.0,8.0,132.0,3,2,2,7,Potential Loyalists Customer
+1407,8402,60.0,21.0,508.0,2,4,3,9,Loyal Customer
+1408,8783,60.0,16.0,340.0,2,3,3,8,Loyal Customer
+1409,10010,57.0,8.0,137.0,2,2,2,6,Potential Loyalists Customer
+1410,618,83.0,22.0,510.0,1,4,3,8,Loyal Customer
+1412,361,16.0,4.0,15.0,4,1,1,6,Potential Loyalists Customer
+1413,4310,75.0,21.0,830.0,2,4,4,10,Loyal Customer
+1414,2678,38.0,9.0,179.0,3,2,2,7,Potential Loyalists Customer
+1415,6376,17.0,16.0,388.0,4,3,3,10,Loyal Customer
+1417,10341,55.0,10.0,189.0,2,2,2,6,Potential Loyalists Customer
+1418,5654,66.0,6.0,56.0,2,1,1,4,New Customer
+1419,4098,97.0,7.0,39.0,1,1,1,3,Potential Lost Customer
+1420,5824,99.0,4.0,3.0,1,1,1,3,Potential Lost Customer
+1421,7000,82.0,23.0,521.0,1,4,3,8,Loyal Customer
+1423,5229,19.0,5.0,37.0,4,1,1,6,Potential Loyalists Customer
+1425,2428,77.0,7.0,73.0,1,1,2,4,New Customer
+1426,8254,52.0,4.0,18.0,2,1,1,4,New Customer
+1427,2836,39.0,4.0,14.0,3,1,1,5,New Customer
+1428,8418,40.0,6.0,56.0,3,1,1,5,New Customer
+1429,1362,25.0,14.0,338.0,4,3,3,10,Loyal Customer
+1431,10033,46.0,5.0,33.0,3,1,1,5,New Customer
+1432,9349,16.0,23.0,694.0,4,4,4,12,Loyal Customer
+1433,274,25.0,6.0,29.0,4,1,1,6,Potential Loyalists Customer
+1434,3388,84.0,13.0,238.0,1,2,2,5,New Customer
+1435,922,21.0,5.0,43.0,4,1,1,6,Potential Loyalists Customer
+1437,2518,84.0,4.0,25.0,1,1,1,3,Potential Lost Customer
+1438,574,4.0,7.0,113.0,4,1,2,7,Potential Loyalists Customer
+1440,5967,40.0,7.0,65.0,3,1,2,6,Potential Loyalists Customer
+1441,1183,89.0,4.0,17.0,1,1,1,3,Potential Lost Customer
+1442,6856,25.0,7.0,60.0,4,1,1,6,Potential Loyalists Customer
+1443,4530,64.0,21.0,993.0,2,4,4,10,Loyal Customer
+1444,1553,29.0,23.0,1039.0,3,4,4,11,Loyal Customer
+1445,4682,12.0,13.0,249.0,4,2,2,8,Loyal Customer
+1446,8204,7.0,18.0,787.0,4,3,4,11,Loyal Customer
+1447,5221,7.0,23.0,551.0,4,4,3,11,Loyal Customer
+1448,1232,46.0,17.0,757.0,3,3,4,10,Loyal Customer
+1449,1927,59.0,14.0,457.0,2,3,3,8,Loyal Customer
+1450,5788,54.0,10.0,179.0,2,2,2,6,Potential Loyalists Customer
+1451,6652,72.0,17.0,695.0,2,3,4,9,Loyal Customer
+1452,6246,60.0,23.0,861.0,2,4,4,10,Loyal Customer
+1453,5975,18.0,6.0,52.0,4,1,1,6,Potential Loyalists Customer
+1454,6875,62.0,16.0,381.0,2,3,3,8,Loyal Customer
+1456,4042,13.0,9.0,160.0,4,2,2,8,Loyal Customer
+1457,2157,51.0,7.0,72.0,3,1,2,6,Potential Loyalists Customer
+1458,10133,84.0,26.0,1042.0,1,4,4,9,Loyal Customer
+1459,2525,35.0,17.0,383.0,3,3,3,9,Loyal Customer
+1460,8233,91.0,18.0,391.0,1,3,3,7,Potential Loyalists Customer
+1461,9483,76.0,19.0,433.0,2,3,3,8,Loyal Customer
+1463,10403,57.0,7.0,39.0,2,1,1,4,New Customer
+1464,5074,90.0,5.0,42.0,1,1,1,3,Potential Lost Customer
+1465,10524,71.0,19.0,509.0,2,3,3,8,Loyal Customer
+1466,4690,55.0,18.0,407.0,2,3,3,8,Loyal Customer
+1468,7196,80.0,4.0,8.0,1,1,1,3,Potential Lost Customer
+1469,4406,71.0,22.0,845.0,2,4,4,10,Loyal Customer
+1470,9672,18.0,6.0,60.0,4,1,1,6,Potential Loyalists Customer
+1471,4864,32.0,9.0,156.0,3,2,2,7,Potential Loyalists Customer
+1472,4706,35.0,5.0,35.0,3,1,1,5,New Customer
+1473,4070,1.0,18.0,661.0,4,3,4,11,Loyal Customer
+1474,25,91.0,20.0,685.0,1,4,4,9,Loyal Customer
+1475,3697,80.0,8.0,122.0,1,2,2,5,New Customer
+1477,4220,74.0,7.0,82.0,2,1,2,5,New Customer
+1478,5286,32.0,10.0,185.0,3,2,2,7,Potential Loyalists Customer
+1479,9559,21.0,26.0,637.0,4,4,3,11,Loyal Customer
+1482,3102,68.0,5.0,27.0,2,1,1,4,New Customer
+1483,5868,51.0,5.0,41.0,3,1,1,5,New Customer
+1484,8370,50.0,17.0,712.0,3,3,4,10,Loyal Customer
+1485,9988,16.0,23.0,542.0,4,4,3,11,Loyal Customer
+1486,2939,4.0,15.0,906.0,4,3,4,11,Loyal Customer
+1487,5529,44.0,16.0,334.0,3,3,3,9,Loyal Customer
+1488,9743,15.0,28.0,987.0,4,4,4,12,Loyal Customer
+1489,5763,37.0,14.0,291.0,3,3,2,8,Loyal Customer
+1490,3478,83.0,21.0,482.0,1,4,3,8,Loyal Customer
+1491,7494,89.0,12.0,220.0,1,2,2,5,New Customer
+1492,1763,38.0,29.0,1046.0,3,4,4,11,Loyal Customer
+1493,7250,52.0,19.0,422.0,2,3,3,8,Loyal Customer
+1494,2005,14.0,7.0,70.0,4,1,2,7,Potential Loyalists Customer
+1495,10770,27.0,25.0,644.0,3,4,3,10,Loyal Customer
+1496,6885,64.0,6.0,50.0,2,1,1,4,New Customer
+1497,2072,66.0,16.0,652.0,2,3,4,9,Loyal Customer
+1498,9463,84.0,22.0,836.0,1,4,4,9,Loyal Customer
+1499,6318,52.0,30.0,802.0,2,4,4,10,Loyal Customer
+1500,4093,39.0,13.0,328.0,3,2,3,8,Loyal Customer
+1502,3340,44.0,15.0,328.0,3,3,3,9,Loyal Customer
+1503,3594,26.0,20.0,485.0,4,4,3,11,Loyal Customer
+1504,3584,65.0,21.0,821.0,2,4,4,10,Loyal Customer
+1505,3643,35.0,14.0,578.0,3,3,3,9,Loyal Customer
+1506,851,52.0,18.0,437.0,2,3,3,8,Loyal Customer
+1507,7706,12.0,25.0,646.0,4,4,3,11,Loyal Customer
+1508,3967,81.0,24.0,587.0,1,4,3,8,Loyal Customer
+1509,10128,79.0,23.0,567.0,1,4,3,8,Loyal Customer
+1512,9451,8.0,24.0,915.0,4,4,4,12,Loyal Customer
+1513,9264,99.0,22.0,909.0,1,4,4,9,Loyal Customer
+1514,3865,86.0,7.0,68.0,1,1,2,4,New Customer
+1515,2853,26.0,11.0,226.0,4,2,2,8,Loyal Customer
+1516,1490,16.0,22.0,539.0,4,4,3,11,Loyal Customer
+1518,10380,50.0,7.0,99.0,3,1,2,6,Potential Loyalists Customer
+1519,3887,98.0,6.0,99.0,1,1,2,4,New Customer
+1520,4278,27.0,19.0,991.0,3,3,4,10,Loyal Customer
+1521,8643,79.0,22.0,916.0,1,4,4,9,Loyal Customer
+1522,1998,18.0,7.0,79.0,4,1,2,7,Potential Loyalists Customer
+1524,11110,44.0,1.0,1.0,3,1,1,5,New Customer
+1525,2408,80.0,21.0,479.0,1,4,3,8,Loyal Customer
+1526,202,46.0,18.0,752.0,3,3,4,10,Loyal Customer
+1527,7998,23.0,7.0,103.0,4,1,2,7,Potential Loyalists Customer
+1528,830,95.0,15.0,915.0,1,3,4,8,Loyal Customer
+1529,3536,35.0,6.0,50.0,3,1,1,5,New Customer
+1530,6050,67.0,23.0,865.0,2,4,4,10,Loyal Customer
+1531,125,35.0,12.0,222.0,3,2,2,7,Potential Loyalists Customer
+1532,3463,59.0,24.0,565.0,2,4,3,9,Loyal Customer
+1533,2804,14.0,8.0,109.0,4,2,2,8,Loyal Customer
+1534,3745,8.0,7.0,98.0,4,1,2,7,Potential Loyalists Customer
+1535,9771,3.0,12.0,220.0,4,2,2,8,Loyal Customer
+1536,451,9.0,5.0,17.0,4,1,1,6,Potential Loyalists Customer
+1537,10530,100.0,16.0,709.0,1,3,4,8,Loyal Customer
+1538,1079,41.0,17.0,667.0,3,3,4,10,Loyal Customer
+1539,8920,96.0,26.0,692.0,1,4,4,9,Loyal Customer
+1540,6678,95.0,8.0,67.0,1,2,2,5,New Customer
+1541,3852,52.0,24.0,596.0,2,4,3,9,Loyal Customer
+1542,528,1.0,20.0,815.0,4,4,4,12,Loyal Customer
+1543,73,19.0,4.0,13.0,4,1,1,6,Potential Loyalists Customer
+1544,5589,5.0,22.0,507.0,4,4,3,11,Loyal Customer
+1546,6365,95.0,6.0,75.0,1,1,2,4,New Customer
+1547,5636,50.0,8.0,149.0,3,2,2,7,Potential Loyalists Customer
+1548,591,24.0,19.0,448.0,4,3,3,10,Loyal Customer
+1549,2217,54.0,4.0,18.0,2,1,1,4,New Customer
+1550,2544,32.0,7.0,87.0,3,1,2,6,Potential Loyalists Customer
+1551,7725,67.0,16.0,436.0,2,3,3,8,Loyal Customer
+1552,8091,50.0,17.0,681.0,3,3,4,10,Loyal Customer
+1555,7791,11.0,5.0,20.0,4,1,1,6,Potential Loyalists Customer
+1556,955,19.0,11.0,200.0,4,2,2,8,Loyal Customer
+1557,4037,23.0,4.0,15.0,4,1,1,6,Potential Loyalists Customer
+1558,6642,50.0,8.0,97.0,3,2,2,7,Potential Loyalists Customer
+1559,2793,90.0,24.0,637.0,1,4,3,8,Loyal Customer
+1562,9530,84.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+1563,4828,88.0,21.0,506.0,1,4,3,8,Loyal Customer
+1564,10699,70.0,7.0,87.0,2,1,2,5,New Customer
+1565,1497,92.0,15.0,308.0,1,3,3,7,Potential Loyalists Customer
+1566,7476,7.0,20.0,765.0,4,4,4,12,Loyal Customer
+1567,4390,86.0,22.0,533.0,1,4,3,8,Loyal Customer
+1568,10478,47.0,19.0,429.0,3,3,3,9,Loyal Customer
+1569,1081,74.0,15.0,628.0,2,3,3,8,Loyal Customer
+1572,5350,71.0,18.0,1047.0,2,3,4,9,Loyal Customer
+1573,8135,59.0,5.0,47.0,2,1,1,4,New Customer
+1575,4967,81.0,12.0,219.0,1,2,2,5,New Customer
+1576,2130,96.0,8.0,133.0,1,2,2,5,New Customer
+1577,9298,11.0,18.0,961.0,4,3,4,11,Loyal Customer
+1579,6257,19.0,17.0,371.0,4,3,3,10,Loyal Customer
+1580,3790,69.0,4.0,10.0,2,1,1,4,New Customer
+1581,9952,47.0,17.0,680.0,3,3,4,10,Loyal Customer
+1582,3503,22.0,15.0,605.0,4,3,3,10,Loyal Customer
+1583,5223,20.0,7.0,61.0,4,1,1,6,Potential Loyalists Customer
+1584,4608,82.0,27.0,502.0,1,4,3,8,Loyal Customer
+1585,1626,63.0,5.0,44.0,2,1,1,4,New Customer
+1586,4764,48.0,9.0,150.0,3,2,2,7,Potential Loyalists Customer
+1587,2471,61.0,12.0,241.0,2,2,2,6,Potential Loyalists Customer
+1588,5892,89.0,11.0,188.0,1,2,2,5,New Customer
+1589,2612,67.0,25.0,925.0,2,4,4,10,Loyal Customer
+1591,5185,17.0,13.0,556.0,4,2,3,9,Loyal Customer
+1592,10069,57.0,5.0,53.0,2,1,1,4,New Customer
+1594,1131,46.0,7.0,90.0,3,1,2,6,Potential Loyalists Customer
+1595,1041,97.0,15.0,320.0,1,3,3,7,Potential Loyalists Customer
+1597,3409,32.0,13.0,268.0,3,2,2,7,Potential Loyalists Customer
+1598,7022,98.0,21.0,824.0,1,4,4,9,Loyal Customer
+1599,7943,60.0,6.0,30.0,2,1,1,4,New Customer
+1600,5272,36.0,17.0,395.0,3,3,3,9,Loyal Customer
+1601,5453,74.0,24.0,1043.0,2,4,4,10,Loyal Customer
+1602,2565,31.0,20.0,791.0,3,4,4,11,Loyal Customer
+1603,800,43.0,5.0,27.0,3,1,1,5,New Customer
+1604,11092,22.0,6.0,36.0,4,1,1,6,Potential Loyalists Customer
+1605,5062,29.0,5.0,34.0,3,1,1,5,New Customer
+1606,8969,41.0,22.0,699.0,3,4,4,11,Loyal Customer
+1607,4656,72.0,20.0,465.0,2,4,3,9,Loyal Customer
+1608,4480,39.0,15.0,304.0,3,3,3,9,Loyal Customer
+1611,1773,62.0,6.0,52.0,2,1,1,4,New Customer
+1612,9242,81.0,19.0,938.0,1,3,4,8,Loyal Customer
+1613,1764,8.0,12.0,221.0,4,2,2,8,Loyal Customer
+1614,6215,76.0,5.0,26.0,2,1,1,4,New Customer
+1615,10099,79.0,22.0,552.0,1,4,3,8,Loyal Customer
+1616,5423,65.0,4.0,11.0,2,1,1,4,New Customer
+1617,940,91.0,13.0,250.0,1,2,2,5,New Customer
+1619,3298,8.0,25.0,707.0,4,4,4,12,Loyal Customer
+1620,8286,45.0,8.0,111.0,3,2,2,7,Potential Loyalists Customer
+1621,9668,86.0,7.0,72.0,1,1,2,4,New Customer
+1623,6097,36.0,16.0,394.0,3,3,3,9,Loyal Customer
+1624,7019,51.0,10.0,181.0,3,2,2,7,Potential Loyalists Customer
+1625,7408,92.0,11.0,196.0,1,2,2,5,New Customer
+1626,8041,65.0,16.0,671.0,2,3,4,9,Loyal Customer
+1627,252,89.0,17.0,415.0,1,3,3,7,Potential Loyalists Customer
+1628,9986,92.0,8.0,49.0,1,2,1,4,New Customer
+1629,3276,47.0,7.0,73.0,3,1,2,6,Potential Loyalists Customer
+1631,3570,36.0,11.0,203.0,3,2,2,7,Potential Loyalists Customer
+1632,3783,57.0,8.0,106.0,2,2,2,6,Potential Loyalists Customer
+1633,10207,60.0,4.0,10.0,2,1,1,4,New Customer
+1635,3427,89.0,21.0,480.0,1,4,3,8,Loyal Customer
+1636,5209,79.0,18.0,434.0,1,3,3,7,Potential Loyalists Customer
+1637,10711,77.0,22.0,558.0,1,4,3,8,Loyal Customer
+1638,10785,83.0,6.0,36.0,1,1,1,3,Potential Lost Customer
+1639,2814,94.0,5.0,26.0,1,1,1,3,Potential Lost Customer
+1640,6866,44.0,5.0,29.0,3,1,1,5,New Customer
+1641,1665,29.0,14.0,947.0,3,3,4,10,Loyal Customer
+1642,6575,49.0,18.0,422.0,3,3,3,9,Loyal Customer
+1644,3091,73.0,21.0,525.0,2,4,3,9,Loyal Customer
+1645,10141,99.0,4.0,15.0,1,1,1,3,Potential Lost Customer
+1646,5177,44.0,15.0,300.0,3,3,2,8,Loyal Customer
+1647,7005,29.0,21.0,518.0,3,4,3,10,Loyal Customer
+1648,6409,82.0,20.0,723.0,1,4,4,9,Loyal Customer
+1649,7485,52.0,8.0,125.0,2,2,2,6,Potential Loyalists Customer
+1650,8079,14.0,7.0,50.0,4,1,1,6,Potential Loyalists Customer
+1651,8395,52.0,22.0,863.0,2,4,4,10,Loyal Customer
+1652,10352,98.0,7.0,107.0,1,1,2,4,New Customer
+1653,4931,87.0,29.0,941.0,1,4,4,9,Loyal Customer
+1654,13,43.0,5.0,27.0,3,1,1,5,New Customer
+1655,1834,23.0,6.0,62.0,4,1,1,6,Potential Loyalists Customer
+1656,2285,100.0,13.0,267.0,1,2,2,5,New Customer
+1657,2295,43.0,22.0,526.0,3,4,3,10,Loyal Customer
+1658,1378,76.0,18.0,461.0,2,3,3,8,Loyal Customer
+1659,2781,45.0,17.0,958.0,3,3,4,10,Loyal Customer
+1660,1165,38.0,16.0,364.0,3,3,3,9,Loyal Customer
+1661,1404,11.0,10.0,194.0,4,2,2,8,Loyal Customer
+1662,6457,23.0,23.0,563.0,4,4,3,11,Loyal Customer
+1663,2639,55.0,7.0,63.0,2,1,1,4,New Customer
+1665,6437,20.0,6.0,71.0,4,1,2,7,Potential Loyalists Customer
+1666,6912,40.0,22.0,498.0,3,4,3,10,Loyal Customer
+1667,7327,29.0,7.0,42.0,3,1,1,5,New Customer
+1670,8143,51.0,12.0,216.0,3,2,2,7,Potential Loyalists Customer
+1671,1964,34.0,18.0,897.0,3,3,4,10,Loyal Customer
+1672,3690,80.0,22.0,1022.0,1,4,4,9,Loyal Customer
+1674,3389,39.0,31.0,873.0,3,4,4,11,Loyal Customer
+1675,4712,82.0,7.0,77.0,1,1,2,4,New Customer
+1676,1170,55.0,11.0,203.0,2,2,2,6,Potential Loyalists Customer
+1677,6347,74.0,5.0,31.0,2,1,1,4,New Customer
+1678,4065,100.0,15.0,305.0,1,3,3,7,Potential Loyalists Customer
+1679,8230,72.0,6.0,66.0,2,1,2,5,New Customer
+1680,1215,51.0,23.0,883.0,3,4,4,11,Loyal Customer
+1681,5939,16.0,8.0,111.0,4,2,2,8,Loyal Customer
+1682,2156,62.0,7.0,36.0,2,1,1,4,New Customer
+1683,7788,47.0,4.0,5.0,3,1,1,5,New Customer
+1684,10323,12.0,12.0,245.0,4,2,2,8,Loyal Customer
+1685,7947,1.0,5.0,32.0,4,1,1,6,Potential Loyalists Customer
+1686,1891,88.0,16.0,949.0,1,3,4,8,Loyal Customer
+1687,2570,65.0,22.0,519.0,2,4,3,9,Loyal Customer
+1688,9256,95.0,24.0,618.0,1,4,3,8,Loyal Customer
+1690,7397,55.0,19.0,455.0,2,3,3,8,Loyal Customer
+1691,6349,29.0,19.0,787.0,3,3,4,10,Loyal Customer
+1692,10790,60.0,4.0,16.0,2,1,1,4,New Customer
+1693,10398,18.0,4.0,26.0,4,1,1,6,Potential Loyalists Customer
+1694,2431,30.0,6.0,62.0,3,1,1,5,New Customer
+1695,550,13.0,20.0,464.0,4,4,3,11,Loyal Customer
+1696,1890,5.0,4.0,20.0,4,1,1,6,Potential Loyalists Customer
+1697,10742,28.0,12.0,484.0,3,2,3,8,Loyal Customer
+1698,10356,95.0,5.0,27.0,1,1,1,3,Potential Lost Customer
+1699,4676,14.0,24.0,932.0,4,4,4,12,Loyal Customer
+1700,8852,20.0,24.0,663.0,4,4,4,12,Loyal Customer
+1702,5294,51.0,8.0,52.0,3,2,1,6,Potential Loyalists Customer
+1703,1958,15.0,20.0,442.0,4,4,3,11,Loyal Customer
+1704,7349,93.0,8.0,98.0,1,2,2,5,New Customer
+1705,8799,94.0,9.0,138.0,1,2,2,5,New Customer
+1706,1351,75.0,29.0,745.0,2,4,4,10,Loyal Customer
+1707,1045,45.0,12.0,229.0,3,2,2,7,Potential Loyalists Customer
+1708,7732,19.0,20.0,483.0,4,4,3,11,Loyal Customer
+1709,8070,2.0,12.0,215.0,4,2,2,8,Loyal Customer
+1710,477,69.0,22.0,1030.0,2,4,4,10,Loyal Customer
+1711,7832,70.0,23.0,869.0,2,4,4,10,Loyal Customer
+1712,2202,2.0,6.0,64.0,4,1,1,6,Potential Loyalists Customer
+1713,7396,8.0,26.0,894.0,4,4,4,12,Loyal Customer
+1714,4055,59.0,7.0,59.0,2,1,1,4,New Customer
+1715,10340,32.0,13.0,365.0,3,2,3,8,Loyal Customer
+1716,10091,22.0,16.0,655.0,4,3,4,11,Loyal Customer
+1717,7629,54.0,6.0,26.0,2,1,1,4,New Customer
+1718,10640,29.0,10.0,181.0,3,2,2,7,Potential Loyalists Customer
+1719,3498,94.0,22.0,550.0,1,4,3,8,Loyal Customer
+1720,6742,18.0,4.0,6.0,4,1,1,6,Potential Loyalists Customer
+1721,1172,29.0,25.0,1009.0,3,4,4,11,Loyal Customer
+1722,569,68.0,19.0,1003.0,2,3,4,9,Loyal Customer
+1723,4686,72.0,25.0,927.0,2,4,4,10,Loyal Customer
+1724,1381,80.0,13.0,260.0,1,2,2,5,New Customer
+1725,2634,90.0,7.0,64.0,1,1,1,3,Potential Lost Customer
+1726,10905,93.0,12.0,206.0,1,2,2,5,New Customer
+1727,1744,33.0,5.0,49.0,3,1,1,5,New Customer
+1729,3828,39.0,27.0,789.0,3,4,4,11,Loyal Customer
+1730,8605,64.0,6.0,63.0,2,1,1,4,New Customer
+1732,4351,10.0,5.0,50.0,4,1,1,6,Potential Loyalists Customer
+1733,10129,65.0,21.0,841.0,2,4,4,10,Loyal Customer
+1734,2499,62.0,18.0,396.0,2,3,3,8,Loyal Customer
+1735,10092,54.0,23.0,860.0,2,4,4,10,Loyal Customer
+1737,5796,30.0,23.0,690.0,3,4,4,11,Loyal Customer
+1738,10556,49.0,14.0,278.0,3,3,2,8,Loyal Customer
+1739,1064,82.0,5.0,37.0,1,1,1,3,Potential Lost Customer
+1740,48,3.0,9.0,163.0,4,2,2,8,Loyal Customer
+1741,7610,68.0,15.0,344.0,2,3,3,8,Loyal Customer
+1742,263,91.0,8.0,131.0,1,2,2,5,New Customer
+1743,10814,94.0,25.0,808.0,1,4,4,9,Loyal Customer
+1744,9710,20.0,22.0,506.0,4,4,3,11,Loyal Customer
+1745,9292,26.0,23.0,814.0,4,4,4,12,Loyal Customer
+1746,10250,51.0,4.0,23.0,3,1,1,5,New Customer
+1748,5847,5.0,21.0,552.0,4,4,3,11,Loyal Customer
+1749,737,44.0,14.0,1035.0,3,3,4,10,Loyal Customer
+1750,3571,52.0,17.0,676.0,2,3,4,9,Loyal Customer
+1752,3878,97.0,5.0,43.0,1,1,1,3,Potential Lost Customer
+1753,5092,61.0,16.0,347.0,2,3,3,8,Loyal Customer
+1755,5394,58.0,7.0,33.0,2,1,1,4,New Customer
+1756,3798,20.0,7.0,76.0,4,1,2,7,Potential Loyalists Customer
+1757,3524,91.0,9.0,149.0,1,2,2,5,New Customer
+1758,5247,48.0,6.0,40.0,3,1,1,5,New Customer
+1759,5883,22.0,19.0,446.0,4,3,3,10,Loyal Customer
+1760,2118,32.0,18.0,425.0,3,3,3,9,Loyal Customer
+1761,8812,55.0,6.0,43.0,2,1,1,4,New Customer
+1762,6616,53.0,15.0,345.0,2,3,3,8,Loyal Customer
+1763,2797,66.0,26.0,659.0,2,4,4,10,Loyal Customer
+1764,4328,19.0,7.0,50.0,4,1,1,6,Potential Loyalists Customer
+1765,9167,28.0,24.0,606.0,3,4,3,10,Loyal Customer
+1766,10560,77.0,5.0,15.0,1,1,1,3,Potential Lost Customer
+1769,5534,70.0,9.0,191.0,2,2,2,6,Potential Loyalists Customer
+1770,5093,85.0,7.0,96.0,1,1,2,4,New Customer
+1773,8584,46.0,17.0,714.0,3,3,4,10,Loyal Customer
+1774,2694,56.0,5.0,19.0,2,1,1,4,New Customer
+1777,164,41.0,12.0,220.0,3,2,2,7,Potential Loyalists Customer
+1778,10477,84.0,7.0,97.0,1,1,2,4,New Customer
+1779,2681,99.0,19.0,345.0,1,3,3,7,Potential Loyalists Customer
+1780,5150,36.0,6.0,42.0,3,1,1,5,New Customer
+1781,5283,28.0,8.0,130.0,3,2,2,7,Potential Loyalists Customer
+1782,9645,2.0,24.0,794.0,4,4,4,12,Loyal Customer
+1783,10678,9.0,24.0,575.0,4,4,3,11,Loyal Customer
+1784,7261,92.0,13.0,256.0,1,2,2,5,New Customer
+1785,9648,80.0,11.0,207.0,1,2,2,5,New Customer
+1786,2870,94.0,16.0,368.0,1,3,3,7,Potential Loyalists Customer
+1787,8008,46.0,7.0,108.0,3,1,2,6,Potential Loyalists Customer
+1788,1513,28.0,17.0,759.0,3,3,4,10,Loyal Customer
+1792,7960,11.0,26.0,814.0,4,4,4,12,Loyal Customer
+1794,9905,31.0,10.0,209.0,3,2,2,7,Potential Loyalists Customer
+1795,10691,45.0,5.0,38.0,3,1,1,5,New Customer
+1796,7002,87.0,14.0,302.0,1,3,3,7,Potential Loyalists Customer
+1797,2952,20.0,7.0,71.0,4,1,2,7,Potential Loyalists Customer
+1798,8439,3.0,14.0,563.0,4,3,3,10,Loyal Customer
+1800,2831,1.0,25.0,723.0,4,4,4,12,Loyal Customer
+1801,6977,13.0,29.0,990.0,4,4,4,12,Loyal Customer
+1802,6289,15.0,9.0,164.0,4,2,2,8,Loyal Customer
+1804,8397,18.0,5.0,29.0,4,1,1,6,Potential Loyalists Customer
+1806,6237,8.0,26.0,315.0,4,4,3,11,Loyal Customer
+1808,1619,98.0,17.0,892.0,1,3,4,8,Loyal Customer
+1809,1990,26.0,17.0,960.0,4,3,4,11,Loyal Customer
+1811,269,29.0,16.0,700.0,3,3,4,10,Loyal Customer
+1812,8093,28.0,14.0,572.0,3,3,3,9,Loyal Customer
+1813,10513,32.0,12.0,859.0,3,2,4,9,Loyal Customer
+1814,10177,96.0,18.0,794.0,1,3,4,8,Loyal Customer
+1815,2549,20.0,5.0,22.0,4,1,1,6,Potential Loyalists Customer
+1816,5782,85.0,21.0,492.0,1,4,3,8,Loyal Customer
+1817,10057,30.0,22.0,790.0,3,4,4,11,Loyal Customer
+1818,10307,9.0,17.0,377.0,4,3,3,10,Loyal Customer
+1819,8566,90.0,4.0,4.0,1,1,1,3,Potential Lost Customer
+1820,2415,1.0,14.0,591.0,4,3,3,10,Loyal Customer
+1821,5684,75.0,6.0,63.0,2,1,1,4,New Customer
+1823,9166,43.0,21.0,552.0,3,4,3,10,Loyal Customer
+1824,1440,16.0,24.0,704.0,4,4,4,12,Loyal Customer
+1825,78,49.0,5.0,32.0,3,1,1,5,New Customer
+1826,5441,3.0,14.0,295.0,4,3,2,9,Loyal Customer
+1827,5302,87.0,16.0,830.0,1,3,4,8,Loyal Customer
+1828,4687,8.0,24.0,907.0,4,4,4,12,Loyal Customer
+1829,1087,70.0,8.0,154.0,2,2,2,6,Potential Loyalists Customer
+1830,6859,70.0,8.0,94.0,2,2,2,6,Potential Loyalists Customer
+1831,9860,89.0,10.0,183.0,1,2,2,5,New Customer
+1832,7129,28.0,24.0,579.0,3,4,3,10,Loyal Customer
+1833,5866,61.0,10.0,187.0,2,2,2,6,Potential Loyalists Customer
+1834,10521,100.0,9.0,155.0,1,2,2,5,New Customer
+1835,7393,85.0,7.0,87.0,1,1,2,4,New Customer
+1836,7849,88.0,25.0,648.0,1,4,4,9,Loyal Customer
+1837,332,44.0,12.0,226.0,3,2,2,7,Potential Loyalists Customer
+1838,9847,61.0,15.0,408.0,2,3,3,8,Loyal Customer
+1839,531,45.0,23.0,916.0,3,4,4,11,Loyal Customer
+1840,9576,40.0,9.0,143.0,3,2,2,7,Potential Loyalists Customer
+1841,6906,27.0,18.0,631.0,3,3,3,9,Loyal Customer
+1842,7419,10.0,6.0,30.0,4,1,1,6,Potential Loyalists Customer
+1843,3170,14.0,15.0,641.0,4,3,3,10,Loyal Customer
+1844,8527,63.0,15.0,299.0,2,3,2,7,Potential Loyalists Customer
+1845,7872,93.0,23.0,392.0,1,4,3,8,Loyal Customer
+1846,9931,71.0,1.0,4.0,2,1,1,4,New Customer
+1847,10595,81.0,6.0,64.0,1,1,1,3,Potential Lost Customer
+1848,4609,86.0,16.0,356.0,1,3,3,7,Potential Loyalists Customer
+1849,5010,28.0,5.0,29.0,3,1,1,5,New Customer
+1850,4427,44.0,28.0,801.0,3,4,4,11,Loyal Customer
+1851,11148,15.0,4.0,8.0,4,1,1,6,Potential Loyalists Customer
+1852,1168,38.0,21.0,823.0,3,4,4,11,Loyal Customer
+1853,9595,99.0,14.0,885.0,1,3,4,8,Loyal Customer
+1854,10163,72.0,20.0,788.0,2,4,4,10,Loyal Customer
+1855,2886,30.0,29.0,744.0,3,4,4,11,Loyal Customer
+1856,6710,16.0,7.0,98.0,4,1,2,7,Potential Loyalists Customer
+1857,5316,11.0,7.0,79.0,4,1,2,7,Potential Loyalists Customer
+1858,9029,27.0,23.0,874.0,3,4,4,11,Loyal Customer
+1859,521,58.0,17.0,406.0,2,3,3,8,Loyal Customer
+1860,1459,84.0,14.0,578.0,1,3,3,7,Potential Loyalists Customer
+1861,10241,84.0,4.0,9.0,1,1,1,3,Potential Lost Customer
+1863,3254,35.0,14.0,593.0,3,3,3,9,Loyal Customer
+1865,3678,87.0,19.0,441.0,1,3,3,7,Potential Loyalists Customer
+1866,4227,22.0,7.0,50.0,4,1,1,6,Potential Loyalists Customer
+1867,9467,49.0,5.0,15.0,3,1,1,5,New Customer
+1868,8486,73.0,14.0,284.0,2,3,2,7,Potential Loyalists Customer
+1869,2186,70.0,22.0,1037.0,2,4,4,10,Loyal Customer
+1870,3286,29.0,6.0,37.0,3,1,1,5,New Customer
+1871,8602,3.0,25.0,647.0,4,4,4,12,Loyal Customer
+1872,3722,17.0,6.0,43.0,4,1,1,6,Potential Loyalists Customer
+1873,6715,97.0,20.0,454.0,1,4,3,8,Loyal Customer
+1874,4796,29.0,5.0,34.0,3,1,1,5,New Customer
+1875,9612,97.0,5.0,38.0,1,1,1,3,Potential Lost Customer
+1876,3766,85.0,19.0,530.0,1,3,3,7,Potential Loyalists Customer
+1877,1399,48.0,20.0,866.0,3,4,4,11,Loyal Customer
+1878,1570,92.0,25.0,639.0,1,4,3,8,Loyal Customer
+1879,3426,11.0,24.0,893.0,4,4,4,12,Loyal Customer
+1880,3074,34.0,18.0,971.0,3,3,4,10,Loyal Customer
+1881,8341,78.0,5.0,29.0,1,1,1,3,Potential Lost Customer
+1882,5180,44.0,9.0,135.0,3,2,2,7,Potential Loyalists Customer
+1883,6461,26.0,23.0,589.0,4,4,3,11,Loyal Customer
+1884,7679,52.0,6.0,23.0,2,1,1,4,New Customer
+1885,10702,33.0,16.0,339.0,3,3,3,9,Loyal Customer
+1886,7505,76.0,5.0,41.0,2,1,1,4,New Customer
+1887,5113,33.0,16.0,934.0,3,3,4,10,Loyal Customer
+1888,10858,62.0,22.0,524.0,2,4,3,9,Loyal Customer
+1889,2961,14.0,14.0,292.0,4,3,2,9,Loyal Customer
+1891,3010,13.0,20.0,1015.0,4,4,4,12,Loyal Customer
+1892,5790,38.0,6.0,67.0,3,1,2,6,Potential Loyalists Customer
+1893,6892,77.0,21.0,478.0,1,4,3,8,Loyal Customer
+1894,1743,1.0,11.0,513.0,4,2,3,9,Loyal Customer
+1895,3578,71.0,11.0,198.0,2,2,2,6,Potential Loyalists Customer
+1897,5558,10.0,15.0,926.0,4,3,4,11,Loyal Customer
+1898,4619,91.0,28.0,227.0,1,4,2,7,Potential Loyalists Customer
+1901,10779,84.0,5.0,44.0,1,1,1,3,Potential Lost Customer
+1902,5896,6.0,15.0,301.0,4,3,2,9,Loyal Customer
+1903,2337,23.0,7.0,34.0,4,1,1,6,Potential Loyalists Customer
+1904,10951,80.0,13.0,247.0,1,2,2,5,New Customer
+1906,17,19.0,25.0,634.0,4,4,3,11,Loyal Customer
+1907,10680,29.0,7.0,65.0,3,1,2,6,Potential Loyalists Customer
+1908,3265,64.0,5.0,41.0,2,1,1,4,New Customer
+1909,5623,5.0,5.0,46.0,4,1,1,6,Potential Loyalists Customer
+1910,5832,68.0,22.0,763.0,2,4,4,10,Loyal Customer
+1911,5544,68.0,21.0,854.0,2,4,4,10,Loyal Customer
+1913,5831,7.0,16.0,965.0,4,3,4,11,Loyal Customer
+1914,7101,76.0,26.0,736.0,2,4,4,10,Loyal Customer
+1915,10176,56.0,17.0,315.0,2,3,3,8,Loyal Customer
+1917,4385,18.0,7.0,42.0,4,1,1,6,Potential Loyalists Customer
+1919,10686,28.0,4.0,16.0,3,1,1,5,New Customer
+1920,2546,93.0,6.0,65.0,1,1,2,4,New Customer
+1921,3283,43.0,21.0,569.0,3,4,3,10,Loyal Customer
+1922,3138,16.0,23.0,921.0,4,4,4,12,Loyal Customer
+1923,4994,47.0,26.0,943.0,3,4,4,11,Loyal Customer
+1924,7966,52.0,28.0,731.0,2,4,4,10,Loyal Customer
+1925,3112,98.0,5.0,19.0,1,1,1,3,Potential Lost Customer
+1927,2181,55.0,14.0,770.0,2,3,4,9,Loyal Customer
+1928,1867,58.0,19.0,793.0,2,3,4,9,Loyal Customer
+1929,1518,71.0,20.0,486.0,2,4,3,9,Loyal Customer
+1930,5734,17.0,7.0,86.0,4,1,2,7,Potential Loyalists Customer
+1931,2878,7.0,14.0,313.0,4,3,3,10,Loyal Customer
+1932,1458,60.0,7.0,39.0,2,1,1,4,New Customer
+1933,7007,53.0,7.0,58.0,2,1,1,4,New Customer
+1934,6200,50.0,22.0,562.0,3,4,3,10,Loyal Customer
+1935,1403,60.0,5.0,33.0,2,1,1,4,New Customer
+1936,4827,97.0,16.0,341.0,1,3,3,7,Potential Loyalists Customer
+1937,6250,38.0,22.0,499.0,3,4,3,10,Loyal Customer
+1938,9291,75.0,4.0,10.0,2,1,1,4,New Customer
+1939,2478,52.0,6.0,33.0,2,1,1,4,New Customer
+1940,1139,44.0,22.0,864.0,3,4,4,11,Loyal Customer
+1941,5138,32.0,5.0,38.0,3,1,1,5,New Customer
+1942,5393,36.0,5.0,37.0,3,1,1,5,New Customer
+1943,10413,33.0,23.0,669.0,3,4,4,11,Loyal Customer
+1944,5015,6.0,8.0,146.0,4,2,2,8,Loyal Customer
+1945,10868,18.0,18.0,767.0,4,3,4,11,Loyal Customer
+1946,10676,97.0,19.0,719.0,1,3,4,8,Loyal Customer
+1947,2495,76.0,22.0,520.0,2,4,3,9,Loyal Customer
+1948,7842,46.0,7.0,69.0,3,1,2,6,Potential Loyalists Customer
+1950,6663,4.0,9.0,141.0,4,2,2,8,Loyal Customer
+1951,2162,81.0,17.0,394.0,1,3,3,7,Potential Loyalists Customer
+1952,3434,40.0,19.0,793.0,3,3,4,10,Loyal Customer
+1953,7919,98.0,23.0,1023.0,1,4,4,9,Loyal Customer
+1954,5626,87.0,16.0,346.0,1,3,3,7,Potential Loyalists Customer
+1955,6428,63.0,17.0,693.0,2,3,4,9,Loyal Customer
+1956,8514,41.0,5.0,15.0,3,1,1,5,New Customer
+1957,10448,45.0,14.0,290.0,3,3,2,8,Loyal Customer
+1958,2109,40.0,28.0,877.0,3,4,4,11,Loyal Customer
+1960,8925,62.0,24.0,625.0,2,4,3,9,Loyal Customer
+1961,3009,92.0,15.0,952.0,1,3,4,8,Loyal Customer
+1962,6355,81.0,7.0,40.0,1,1,1,3,Potential Lost Customer
+1963,3517,68.0,8.0,145.0,2,2,2,6,Potential Loyalists Customer
+1964,1158,73.0,8.0,130.0,2,2,2,6,Potential Loyalists Customer
+1965,6203,42.0,26.0,942.0,3,4,4,11,Loyal Customer
+1966,7165,41.0,21.0,525.0,3,4,3,10,Loyal Customer
+1967,3595,71.0,27.0,697.0,2,4,4,10,Loyal Customer
+1968,8537,40.0,21.0,831.0,3,4,4,11,Loyal Customer
+1969,4331,59.0,21.0,805.0,2,4,4,10,Loyal Customer
+1970,6281,73.0,15.0,609.0,2,3,3,8,Loyal Customer
+1971,4338,72.0,5.0,39.0,2,1,1,4,New Customer
+1973,9507,82.0,15.0,327.0,1,3,3,7,Potential Loyalists Customer
+1975,10311,100.0,26.0,279.0,1,4,2,7,Potential Loyalists Customer
+1976,5117,68.0,17.0,403.0,2,3,3,8,Loyal Customer
+1977,4867,98.0,8.0,83.0,1,2,2,5,New Customer
+1978,9289,84.0,6.0,58.0,1,1,1,3,Potential Lost Customer
+1979,10913,44.0,4.0,22.0,3,1,1,5,New Customer
+1980,3032,3.0,9.0,171.0,4,2,2,8,Loyal Customer
+1982,3334,65.0,22.0,1033.0,2,4,4,10,Loyal Customer
+1983,4470,97.0,8.0,127.0,1,2,2,5,New Customer
+1984,1406,51.0,15.0,314.0,3,3,3,9,Loyal Customer
+1986,10821,55.0,11.0,214.0,2,2,2,6,Potential Loyalists Customer
+1987,4552,63.0,12.0,298.0,2,2,2,6,Potential Loyalists Customer
+1988,898,61.0,8.0,133.0,2,2,2,6,Potential Loyalists Customer
+1989,9797,62.0,15.0,333.0,2,3,3,8,Loyal Customer
+1990,10949,92.0,19.0,1000.0,1,3,4,8,Loyal Customer
+1991,8212,11.0,9.0,155.0,4,2,2,8,Loyal Customer
+1992,6248,53.0,28.0,1034.0,2,4,4,10,Loyal Customer
+1993,10164,25.0,16.0,930.0,4,3,4,11,Loyal Customer
+1994,4547,14.0,5.0,20.0,4,1,1,6,Potential Loyalists Customer
+1995,6815,96.0,22.0,516.0,1,4,3,8,Loyal Customer
+1996,4122,27.0,16.0,559.0,3,3,3,9,Loyal Customer
+1997,10841,54.0,16.0,354.0,2,3,3,8,Loyal Customer
+1998,5370,62.0,15.0,312.0,2,3,3,8,Loyal Customer
+1999,176,27.0,12.0,264.0,3,2,2,7,Potential Loyalists Customer
+2000,4860,34.0,5.0,20.0,3,1,1,5,New Customer
+2001,10757,64.0,4.0,8.0,2,1,1,4,New Customer
+2002,4023,71.0,8.0,105.0,2,2,2,6,Potential Loyalists Customer
+2003,6679,71.0,4.0,11.0,2,1,1,4,New Customer
+2005,7181,3.0,6.0,47.0,4,1,1,6,Potential Loyalists Customer
+2006,3599,39.0,21.0,844.0,3,4,4,11,Loyal Customer
+2007,405,32.0,14.0,331.0,3,3,3,9,Loyal Customer
+2008,6870,27.0,12.0,231.0,3,2,2,7,Potential Loyalists Customer
+2009,832,10.0,21.0,485.0,4,4,3,11,Loyal Customer
+2010,2002,19.0,17.0,979.0,4,3,4,11,Loyal Customer
+2011,3657,99.0,9.0,148.0,1,2,2,5,New Customer
+2012,500,21.0,24.0,996.0,4,4,4,12,Loyal Customer
+2013,1951,8.0,22.0,532.0,4,4,3,11,Loyal Customer
+2014,3262,69.0,25.0,914.0,2,4,4,10,Loyal Customer
+2016,7042,86.0,6.0,61.0,1,1,1,3,Potential Lost Customer
+2017,10598,11.0,6.0,32.0,4,1,1,6,Potential Loyalists Customer
+2018,255,69.0,5.0,16.0,2,1,1,4,New Customer
+2019,2375,25.0,4.0,17.0,4,1,1,6,Potential Loyalists Customer
+2020,9829,58.0,7.0,73.0,2,1,2,5,New Customer
+2021,6214,47.0,6.0,74.0,3,1,2,6,Potential Loyalists Customer
+2022,4954,47.0,12.0,216.0,3,2,2,7,Potential Loyalists Customer
+2023,7861,77.0,18.0,721.0,1,3,4,8,Loyal Customer
+2024,4837,43.0,27.0,781.0,3,4,4,11,Loyal Customer
+2025,9423,51.0,7.0,41.0,3,1,1,5,New Customer
+2027,153,71.0,5.0,41.0,2,1,1,4,New Customer
+2028,9323,95.0,23.0,549.0,1,4,3,8,Loyal Customer
+2029,10001,2.0,7.0,95.0,4,1,2,7,Potential Loyalists Customer
+2030,3945,20.0,24.0,580.0,4,4,3,11,Loyal Customer
+2031,3799,96.0,21.0,545.0,1,4,3,8,Loyal Customer
+2032,8625,30.0,7.0,40.0,3,1,1,5,New Customer
+2033,3491,68.0,26.0,762.0,2,4,4,10,Loyal Customer
+2034,983,18.0,12.0,313.0,4,2,3,9,Loyal Customer
+2035,9119,73.0,14.0,297.0,2,3,2,7,Potential Loyalists Customer
+2036,4786,6.0,26.0,682.0,4,4,4,12,Loyal Customer
+2037,5872,77.0,19.0,435.0,1,3,3,7,Potential Loyalists Customer
+2038,6568,3.0,6.0,74.0,4,1,2,7,Potential Loyalists Customer
+2039,5628,75.0,24.0,917.0,2,4,4,10,Loyal Customer
+2040,5631,8.0,18.0,459.0,4,3,3,10,Loyal Customer
+2041,4974,2.0,20.0,819.0,4,4,4,12,Loyal Customer
+2042,8416,81.0,6.0,39.0,1,1,1,3,Potential Lost Customer
+2043,5454,20.0,6.0,45.0,4,1,1,6,Potential Loyalists Customer
+2044,4095,20.0,14.0,347.0,4,3,3,10,Loyal Customer
+2045,5474,21.0,10.0,190.0,4,2,2,8,Loyal Customer
+2046,4268,50.0,9.0,142.0,3,2,2,7,Potential Loyalists Customer
+2047,10701,40.0,28.0,740.0,3,4,4,11,Loyal Customer
+2048,3507,56.0,13.0,886.0,2,2,4,8,Loyal Customer
+2049,2079,100.0,22.0,738.0,1,4,4,9,Loyal Customer
+2050,626,72.0,5.0,38.0,2,1,1,4,New Customer
+2051,4426,65.0,16.0,379.0,2,3,3,8,Loyal Customer
+2052,2591,51.0,14.0,581.0,3,3,3,9,Loyal Customer
+2053,10509,54.0,7.0,66.0,2,1,2,5,New Customer
+2054,6382,3.0,5.0,49.0,4,1,1,6,Potential Loyalists Customer
+2055,6673,49.0,7.0,117.0,3,1,2,6,Potential Loyalists Customer
+2056,7441,20.0,25.0,900.0,4,4,4,12,Loyal Customer
+2058,10061,71.0,24.0,668.0,2,4,4,10,Loyal Customer
+2063,322,7.0,6.0,36.0,4,1,1,6,Potential Loyalists Customer
+2065,123,8.0,14.0,615.0,4,3,3,10,Loyal Customer
+2066,6103,60.0,7.0,95.0,2,1,2,5,New Customer
+2067,7899,30.0,16.0,924.0,3,3,4,10,Loyal Customer
+2068,10500,4.0,8.0,93.0,4,2,2,8,Loyal Customer
+2069,1655,19.0,5.0,43.0,4,1,1,6,Potential Loyalists Customer
+2070,2406,37.0,17.0,374.0,3,3,3,9,Loyal Customer
+2071,2712,15.0,20.0,468.0,4,4,3,11,Loyal Customer
+2074,2254,5.0,21.0,840.0,4,4,4,12,Loyal Customer
+2075,10281,89.0,18.0,416.0,1,3,3,7,Potential Loyalists Customer
+2076,6958,58.0,5.0,21.0,2,1,1,4,New Customer
+2077,954,23.0,7.0,97.0,4,1,2,7,Potential Loyalists Customer
+2080,4643,60.0,8.0,157.0,2,2,2,6,Potential Loyalists Customer
+2082,6497,68.0,14.0,326.0,2,3,3,8,Loyal Customer
+2086,2802,39.0,18.0,594.0,3,3,3,9,Loyal Customer
+2087,6343,94.0,23.0,867.0,1,4,4,9,Loyal Customer
+2088,6507,84.0,7.0,51.0,1,1,1,3,Potential Lost Customer
+2089,7901,61.0,4.0,17.0,2,1,1,4,New Customer
+2090,4865,98.0,15.0,303.0,1,3,3,7,Potential Loyalists Customer
+2091,2686,51.0,4.0,21.0,3,1,1,5,New Customer
+2092,3107,69.0,13.0,273.0,2,2,2,6,Potential Loyalists Customer
+2093,7734,42.0,22.0,743.0,3,4,4,11,Loyal Customer
+2095,11031,10.0,5.0,35.0,4,1,1,6,Potential Loyalists Customer
+2096,7428,53.0,19.0,803.0,2,3,4,9,Loyal Customer
+2097,975,75.0,11.0,215.0,2,2,2,6,Potential Loyalists Customer
+2098,1103,40.0,19.0,1013.0,3,3,4,10,Loyal Customer
+2099,3422,33.0,10.0,808.0,3,2,4,9,Loyal Customer
+2100,1055,60.0,5.0,40.0,2,1,1,4,New Customer
+2102,1241,99.0,5.0,46.0,1,1,1,3,Potential Lost Customer
+2103,2909,11.0,19.0,764.0,4,3,4,11,Loyal Customer
+2104,5802,60.0,7.0,70.0,2,1,2,5,New Customer
+2107,340,99.0,18.0,365.0,1,3,3,7,Potential Loyalists Customer
+2108,5991,76.0,11.0,217.0,2,2,2,6,Potential Loyalists Customer
+2109,3104,11.0,21.0,1004.0,4,4,4,12,Loyal Customer
+2110,9729,52.0,18.0,424.0,2,3,3,8,Loyal Customer
+2111,1008,69.0,24.0,630.0,2,4,3,9,Loyal Customer
+2112,11091,32.0,5.0,17.0,3,1,1,5,New Customer
+2113,3969,54.0,7.0,121.0,2,1,2,5,New Customer
+2114,1916,8.0,15.0,329.0,4,3,3,10,Loyal Customer
+2115,9907,20.0,25.0,626.0,4,4,3,11,Loyal Customer
+2116,87,84.0,6.0,52.0,1,1,1,3,Potential Lost Customer
+2117,8659,50.0,26.0,638.0,3,4,3,10,Loyal Customer
+2118,6262,7.0,22.0,884.0,4,4,4,12,Loyal Customer
+2119,6147,49.0,4.0,23.0,3,1,1,5,New Customer
+2120,8832,76.0,8.0,112.0,2,2,2,6,Potential Loyalists Customer
+2121,10067,21.0,4.0,8.0,4,1,1,6,Potential Loyalists Customer
+2122,7532,74.0,8.0,120.0,2,2,2,6,Potential Loyalists Customer
+2123,4915,14.0,20.0,478.0,4,4,3,11,Loyal Customer
+2124,2115,32.0,6.0,61.0,3,1,1,5,New Customer
+2127,6292,40.0,18.0,968.0,3,3,4,10,Loyal Customer
+2128,1631,97.0,20.0,772.0,1,4,4,9,Loyal Customer
+2129,10104,35.0,4.0,3.0,3,1,1,5,New Customer
+2131,3919,36.0,20.0,994.0,3,4,4,11,Loyal Customer
+2132,11181,15.0,1.0,3.0,4,1,1,6,Potential Loyalists Customer
+2133,642,31.0,6.0,98.0,3,1,2,6,Potential Loyalists Customer
+2134,4369,52.0,15.0,717.0,2,3,4,9,Loyal Customer
+2135,10127,79.0,15.0,299.0,1,3,2,6,Potential Loyalists Customer
+2136,271,70.0,11.0,211.0,2,2,2,6,Potential Loyalists Customer
+2138,2948,24.0,10.0,164.0,4,2,2,8,Loyal Customer
+2139,2715,89.0,8.0,160.0,1,2,2,5,New Customer
+2140,10432,74.0,5.0,17.0,2,1,1,4,New Customer
+2141,9216,66.0,6.0,39.0,2,1,1,4,New Customer
+2142,7124,28.0,8.0,89.0,3,2,2,7,Potential Loyalists Customer
+2143,9727,87.0,7.0,76.0,1,1,2,4,New Customer
+2144,5136,42.0,22.0,511.0,3,4,3,10,Loyal Customer
+2145,9790,88.0,19.0,791.0,1,3,4,8,Loyal Customer
+2146,1818,77.0,5.0,33.0,1,1,1,3,Potential Lost Customer
+2147,1100,67.0,8.0,56.0,2,2,1,5,New Customer
+2148,7873,70.0,13.0,242.0,2,2,2,6,Potential Loyalists Customer
+2149,10609,85.0,7.0,83.0,1,1,2,4,New Customer
+2150,6950,75.0,6.0,49.0,2,1,1,4,New Customer
+2151,7233,96.0,15.0,956.0,1,3,4,8,Loyal Customer
+2152,9481,20.0,8.0,63.0,4,2,1,7,Potential Loyalists Customer
+2155,8933,84.0,7.0,61.0,1,1,1,3,Potential Lost Customer
+2156,8726,43.0,9.0,155.0,3,2,2,7,Potential Loyalists Customer
+2157,1515,91.0,5.0,23.0,1,1,1,3,Potential Lost Customer
+2158,5186,41.0,21.0,477.0,3,4,3,10,Loyal Customer
+2159,10157,22.0,12.0,225.0,4,2,2,8,Loyal Customer
+2160,5667,10.0,24.0,933.0,4,4,4,12,Loyal Customer
+2161,902,26.0,13.0,251.0,4,2,2,8,Loyal Customer
+2162,977,90.0,15.0,313.0,1,3,3,7,Potential Loyalists Customer
+2163,7313,37.0,23.0,881.0,3,4,4,11,Loyal Customer
+2164,7600,87.0,5.0,24.0,1,1,1,3,Potential Lost Customer
+2165,9706,2.0,7.0,89.0,4,1,2,7,Potential Loyalists Customer
+2167,3520,6.0,15.0,671.0,4,3,4,11,Loyal Customer
+2168,10394,9.0,18.0,850.0,4,3,4,11,Loyal Customer
+2169,4548,34.0,5.0,49.0,3,1,1,5,New Customer
+2170,9362,86.0,18.0,398.0,1,3,3,7,Potential Loyalists Customer
+2171,3968,23.0,27.0,737.0,4,4,4,12,Loyal Customer
+2172,4084,59.0,22.0,548.0,2,4,3,9,Loyal Customer
+2173,6721,79.0,15.0,741.0,1,3,4,8,Loyal Customer
+2174,2829,75.0,21.0,477.0,2,4,3,9,Loyal Customer
+2175,1772,98.0,19.0,1010.0,1,3,4,8,Loyal Customer
+2176,1544,49.0,17.0,981.0,3,3,4,10,Loyal Customer
+2177,492,97.0,15.0,320.0,1,3,3,7,Potential Loyalists Customer
+2178,4377,68.0,14.0,402.0,2,3,3,8,Loyal Customer
+2180,1321,51.0,7.0,51.0,3,1,1,5,New Customer
+2181,8858,31.0,18.0,386.0,3,3,3,9,Loyal Customer
+2183,11187,77.0,7.0,64.0,1,1,1,3,Potential Lost Customer
+2184,8207,82.0,5.0,35.0,1,1,1,3,Potential Lost Customer
+2185,9723,92.0,25.0,627.0,1,4,3,8,Loyal Customer
+2186,2666,79.0,23.0,567.0,1,4,3,8,Loyal Customer
+2187,5721,40.0,24.0,882.0,3,4,4,11,Loyal Customer
+2188,10652,52.0,15.0,717.0,2,3,4,9,Loyal Customer
+2189,1646,64.0,6.0,41.0,2,1,1,4,New Customer
+2190,4418,64.0,25.0,911.0,2,4,4,10,Loyal Customer
+2191,2656,37.0,5.0,54.0,3,1,1,5,New Customer
+2192,7990,98.0,4.0,12.0,1,1,1,3,Potential Lost Customer
+2193,8722,62.0,25.0,975.0,2,4,4,10,Loyal Customer
+2194,7118,39.0,21.0,870.0,3,4,4,11,Loyal Customer
+2195,2980,48.0,7.0,30.0,3,1,1,5,New Customer
+2196,1839,75.0,8.0,128.0,2,2,2,6,Potential Loyalists Customer
+2197,10722,37.0,16.0,389.0,3,3,3,9,Loyal Customer
+2198,2632,90.0,14.0,367.0,1,3,3,7,Potential Loyalists Customer
+2199,9014,35.0,7.0,56.0,3,1,1,5,New Customer
+2200,7620,29.0,7.0,99.0,3,1,2,6,Potential Loyalists Customer
+2201,10968,100.0,23.0,463.0,1,4,3,8,Loyal Customer
+2202,11133,97.0,15.0,320.0,1,3,3,7,Potential Loyalists Customer
+2203,2736,12.0,22.0,537.0,4,4,3,11,Loyal Customer
+2205,5959,20.0,10.0,175.0,4,2,2,8,Loyal Customer
+2206,1092,83.0,17.0,702.0,1,3,4,8,Loyal Customer
+2207,4333,24.0,7.0,49.0,4,1,1,6,Potential Loyalists Customer
+2208,3850,48.0,5.0,38.0,3,1,1,5,New Customer
+2209,6168,72.0,5.0,48.0,2,1,1,4,New Customer
+2210,607,69.0,17.0,375.0,2,3,3,8,Loyal Customer
+2211,10469,58.0,18.0,904.0,2,3,4,9,Loyal Customer
+2212,6983,76.0,6.0,40.0,2,1,1,4,New Customer
+2213,3661,58.0,19.0,832.0,2,3,4,9,Loyal Customer
+2214,9303,88.0,2.0,27.0,1,1,1,3,Potential Lost Customer
+2215,692,12.0,4.0,11.0,4,1,1,6,Potential Loyalists Customer
+2219,9246,27.0,14.0,314.0,3,3,3,9,Loyal Customer
+2220,6261,19.0,16.0,349.0,4,3,3,10,Loyal Customer
+2222,10659,93.0,8.0,48.0,1,2,1,4,New Customer
+2223,1448,67.0,7.0,46.0,2,1,1,4,New Customer
+2224,4286,76.0,20.0,449.0,2,4,3,9,Loyal Customer
+2226,4478,13.0,19.0,438.0,4,3,3,10,Loyal Customer
+2227,4201,61.0,15.0,348.0,2,3,3,8,Loyal Customer
+2229,10084,91.0,6.0,45.0,1,1,1,3,Potential Lost Customer
+2230,7004,18.0,7.0,79.0,4,1,2,7,Potential Loyalists Customer
+2231,9817,29.0,26.0,647.0,3,4,4,11,Loyal Customer
+2232,8080,50.0,4.0,17.0,3,1,1,5,New Customer
+2235,10870,54.0,17.0,795.0,2,3,4,9,Loyal Customer
+2237,7270,9.0,19.0,755.0,4,3,4,11,Loyal Customer
+2238,8235,92.0,22.0,534.0,1,4,3,8,Loyal Customer
+2239,9405,60.0,9.0,153.0,2,2,2,6,Potential Loyalists Customer
