@@ -56,8 +56,8 @@ git@github.com:priscillahilary/Supermarket_Analysis_Capstone2.git
     ├── docs                                                <-- Contains documentations
     ├── header.png                                          <-- Header for README 
     ├── requirements.txt                                    <-- The requirements file for reproducing the analysis 
-    │                                                            environment, e.g. 
-    │                                                            Generated with pip freeze > requirements.txt
+    │                                                           environment, e.g. 
+    │                                                           Generated with pip freeze > requirements.txt
     └── src                                                 <-- Source code for use in this project
         └── SupermarketAnalysis_capstone2.ipynb             <-- Data analysis in Jupiter Notebook file
 
