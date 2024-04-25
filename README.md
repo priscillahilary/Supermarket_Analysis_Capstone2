@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-## INTRODUCTION
+## Introduction
 
 Even though Supermarket can choose to remain a physical store or enter the ever-growing world of e-commerce, Supermarket remains popular in terms of retail sales, especially shopping for groceries and household necessities. Understanding client behavior is essential in the retail market so that organizations can adjust their marketing offers and campaigns accordingly. As a first step, the Supermarket asked the Data Analyst team to conduct analysis on customer data owned by the Supermarket.
 
