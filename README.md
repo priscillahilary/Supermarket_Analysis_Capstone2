@@ -42,10 +42,6 @@ The following link to get Dashboard Tableau:
 
 https://public.tableau.com/views/SupermarketCustomersAnalysis_17139488290570/Performance?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
-Also, to get this project you can clone it by running the following code:
-
-git@github.com:priscillahilary/Supermarket_Analysis_Capstone2.git
-  
 ## Project Organization
     ├── README.md                                           <-- The top-level README for developers using this project
     ├── data                                   
